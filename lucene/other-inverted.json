@@ -2,17 +2,18 @@
     {
         "name": "cacm",
         "type": "inverted",
-        "corpus": "cacm",
+        "corpus": "CACM",
         "corpus_index": "cacm",
-        "description": "Lucene index of the CACM corpus.",
-        "filename": "lucene-index.cacm.tar.gz",
+        "description": "Anserini Lucene inverted index of the CACM corpus",
+        "filename": "lucene-index.cacm.20221005.252b5e.tar.gz",
+        "readme": "",
         "urls": [
-            "https://github.com/castorini/anserini-data/raw/master/CACM/lucene-index.cacm.20221005.252b5e.tar.gz"
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-cacm/resolve/main/lucene-inverted/tf/lucene-index.cacm.20221005.252b5e.tar.gz"
         ],
         "md5": "cfe14d543c6a27f4d742fb2d0099b8e0",
         "size": 2347197,
-        "total_terms": 320968,
         "documents": 3204,
+        "total_terms": 320968,
         "unique_terms": 14363
     },
     {
