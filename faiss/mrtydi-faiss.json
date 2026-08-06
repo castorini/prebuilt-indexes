@@ -10,7 +10,7 @@
     "size": 5997718937,
     "documents": 2106586,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-arabic"
+    "texts": "mrtydi-v1.1-ar"
   },
   "mrtydi-v1.1-bengali-mdpr-nq": {
     "description": "Faiss index for Mr.TyDi v1.1 (Bengali) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -23,7 +23,7 @@
     "size": 865716848,
     "documents": 304059,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-bengali"
+    "texts": "mrtydi-v1.1-bn"
   },
   "mrtydi-v1.1-english-mdpr-nq": {
     "description": "Faiss index for Mr.TyDi v1.1 (English) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -36,7 +36,7 @@
     "size": 93585951488,
     "documents": 32907100,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-english"
+    "texts": "mrtydi-v1.1-en"
   },
   "mrtydi-v1.1-finnish-mdpr-nq": {
     "description": "Faiss index for Mr.TyDi v1.1 (Finnish) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -49,7 +49,7 @@
     "size": 5435516778,
     "documents": 1908757,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-finnish"
+    "texts": "mrtydi-v1.1-fi"
   },
   "mrtydi-v1.1-indonesian-mdpr-nq": {
     "description": "Faiss index for Mr.TyDi v1.1 (Indonesian) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -62,7 +62,7 @@
     "size": 4179177829,
     "documents": 4179177829,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-indonesian"
+    "texts": "mrtydi-v1.1-id"
   },
   "mrtydi-v1.1-japanese-mdpr-nq": {
     "description": "Faiss index for Mr.TyDi v1.1 (Japanese) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -75,7 +75,7 @@
     "size": 19920816424,
     "documents": 7000027,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-japanese"
+    "texts": "mrtydi-v1.1-ja"
   },
   "mrtydi-v1.1-korean-mdpr-nq": {
     "description": "Faiss index for Mr.TyDi v1.1 (Korean) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -88,7 +88,7 @@
     "size": 4257414237,
     "documents": 1496126,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-korean"
+    "texts": "mrtydi-v1.1-ko"
   },
   "mrtydi-v1.1-russian-mdpr-nq": {
     "description": "Faiss index for Mr.TyDi v1.1 (Russian) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -101,7 +101,7 @@
     "size": 27317759143,
     "documents": 9597504,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-russian"
+    "texts": "mrtydi-v1.1-ru"
   },
   "mrtydi-v1.1-swahili-mdpr-nq": {
     "description": "Faiss index for Mr.TyDi v1.1 (Swahili) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -114,7 +114,7 @@
     "size": 389658394,
     "documents": 136689,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-swahili"
+    "texts": "mrtydi-v1.1-sw"
   },
   "mrtydi-v1.1-telugu-mdpr-nq": {
     "description": "Faiss index for Mr.TyDi v1.1 (Telugu) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -127,7 +127,7 @@
     "size": 1561173721,
     "documents": 548224,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-telugu"
+    "texts": "mrtydi-v1.1-te"
   },
   "mrtydi-v1.1-thai-mdpr-nq": {
     "description": "Faiss index for Mr.TyDi v1.1 (Thai) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -140,7 +140,7 @@
     "size": 1616059846,
     "documents": 568855,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-thai"
+    "texts": "mrtydi-v1.1-th"
   },
   "mrtydi-v1.1-arabic-mdpr-tied-pft-msmarco": {
     "description": "Faiss index for Mr.TyDi v1.1 (Arabic) corpus encoded by mDPR passage encoder pre-fine-tuned on MS MARCO.",
@@ -153,7 +153,7 @@
     "size": 5997944387,
     "documents": 2106586,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-arabic"
+    "texts": "mrtydi-v1.1-ar"
   },
   "mrtydi-v1.1-bengali-mdpr-tied-pft-msmarco": {
     "description": "Faiss index for Mr.TyDi v1.1 (Bengali) corpus encoded by mDPR passage encoder pre-fine-tuned on MS MARCO.",
@@ -166,7 +166,7 @@
     "size": 865733182,
     "documents": 304059,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-bengali"
+    "texts": "mrtydi-v1.1-bn"
   },
   "mrtydi-v1.1-english-mdpr-tied-pft-msmarco": {
     "description": "Faiss index for Mr.TyDi v1.1 (English) corpus encoded by mDPR passage encoder pre-fine-tuned on MS MARCO.",
@@ -179,7 +179,7 @@
     "size": 93594560123,
     "documents": 32907100,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-english"
+    "texts": "mrtydi-v1.1-en"
   },
   "mrtydi-v1.1-finnish-mdpr-tied-pft-msmarco": {
     "description": "Faiss index for Mr.TyDi v1.1 (Finnish) corpus encoded by mDPR passage encoder pre-fine-tuned on MS MARCO.",
@@ -192,7 +192,7 @@
     "size": 5436419128,
     "documents": 1908757,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-finnish"
+    "texts": "mrtydi-v1.1-fi"
   },
   "mrtydi-v1.1-indonesian-mdpr-tied-pft-msmarco": {
     "description": "Faiss index for Mr.TyDi v1.1 (Indonesian) corpus encoded by mDPR passage encoder pre-fine-tuned on MS MARCO.",
@@ -205,7 +205,7 @@
     "size": 4178791340,
     "documents": 1469399,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-indonesian"
+    "texts": "mrtydi-v1.1-id"
   },
   "mrtydi-v1.1-japanese-mdpr-tied-pft-msmarco": {
     "description": "Faiss index for Mr.TyDi v1.1 (Japanese) corpus encoded by mDPR passage encoder pre-fine-tuned on MS MARCO.",
@@ -218,7 +218,7 @@
     "size": 19918319659,
     "documents": 7000027,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-japanese"
+    "texts": "mrtydi-v1.1-ja"
   },
   "mrtydi-v1.1-korean-mdpr-tied-pft-msmarco": {
     "description": "Faiss index for Mr.TyDi v1.1 (Korean) corpus encoded by mDPR passage encoder pre-fine-tuned on MS MARCO.",
@@ -231,7 +231,7 @@
     "size": 4256863020,
     "documents": 1496126,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-korean"
+    "texts": "mrtydi-v1.1-ko"
   },
   "mrtydi-v1.1-russian-mdpr-tied-pft-msmarco": {
     "description": "Faiss index for Mr.TyDi v1.1 (Russian) corpus encoded by mDPR passage encoder pre-fine-tuned on MS MARCO.",
@@ -244,7 +244,7 @@
     "size": 27318554290,
     "documents": 9597504,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-russian"
+    "texts": "mrtydi-v1.1-ru"
   },
   "mrtydi-v1.1-swahili-mdpr-tied-pft-msmarco": {
     "description": "Faiss index for Mr.TyDi v1.1 (Swahili) corpus encoded by mDPR passage encoder pre-fine-tuned on MS MARCO.",
@@ -257,7 +257,7 @@
     "size": 389600489,
     "documents": 136689,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-swahili"
+    "texts": "mrtydi-v1.1-sw"
   },
   "mrtydi-v1.1-telugu-mdpr-tied-pft-msmarco": {
     "description": "Faiss index for Mr.TyDi v1.1 (Telugu) corpus encoded by mDPR passage encoder pre-fine-tuned on MS MARCO.",
@@ -270,7 +270,7 @@
     "size": 1561420074,
     "documents": 548224,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-telugu"
+    "texts": "mrtydi-v1.1-te"
   },
   "mrtydi-v1.1-thai-mdpr-tied-pft-msmarco": {
     "description": "Faiss index for Mr.TyDi v1.1 (Thai) corpus encoded by mDPR passage encoder pre-fine-tuned on MS MARCO.",
@@ -283,7 +283,7 @@
     "size": 1616716171,
     "documents": 568855,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-thai"
+    "texts": "mrtydi-v1.1-th"
   },
   "mrtydi-v1.1-arabic-mdpr-tied-pft-nq": {
     "description": "Faiss index for Mr.TyDi v1.1 (Arabic) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -296,7 +296,7 @@
     "size": 5988743258,
     "documents": 2106586,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-arabic"
+    "texts": "mrtydi-v1.1-ar"
   },
   "mrtydi-v1.1-bengali-mdpr-tied-pft-nq": {
     "description": "Faiss index for Mr.TyDi v1.1 (Bengali) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -309,7 +309,7 @@
     "size": 864358280,
     "documents": 304059,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-bengali"
+    "texts": "mrtydi-v1.1-bn"
   },
   "mrtydi-v1.1-english-mdpr-tied-pft-nq": {
     "description": "Faiss index for Mr.TyDi v1.1 (English) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -322,7 +322,7 @@
     "size": 93435965796,
     "documents": 32907100,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-english"
+    "texts": "mrtydi-v1.1-en"
   },
   "mrtydi-v1.1-finnish-mdpr-tied-pft-nq": {
     "description": "Faiss index for Mr.TyDi v1.1 (Finnish) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -335,7 +335,7 @@
     "size": 5427976705,
     "documents": 1908757,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-finnish"
+    "texts": "mrtydi-v1.1-fi"
   },
   "mrtydi-v1.1-indonesian-mdpr-tied-pft-nq": {
     "description": "Faiss index for Mr.TyDi v1.1 (Indonesian) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -348,7 +348,7 @@
     "size": 4172976570,
     "documents": 4179177829,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-indonesian"
+    "texts": "mrtydi-v1.1-id"
   },
   "mrtydi-v1.1-japanese-mdpr-tied-pft-nq": {
     "description": "Faiss index for Mr.TyDi v1.1 (Japanese) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -361,7 +361,7 @@
     "size": 19890571158,
     "documents": 7000027,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-japanese"
+    "texts": "mrtydi-v1.1-ja"
   },
   "mrtydi-v1.1-korean-mdpr-tied-pft-nq": {
     "description": "Faiss index for Mr.TyDi v1.1 (Korean) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -374,7 +374,7 @@
     "size": 4250320804,
     "documents": 1496126,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-korean"
+    "texts": "mrtydi-v1.1-ko"
   },
   "mrtydi-v1.1-russian-mdpr-tied-pft-nq": {
     "description": "Faiss index for Mr.TyDi v1.1 (Russian) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -387,7 +387,7 @@
     "size": 27278520787,
     "documents": 9597504,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-russian"
+    "texts": "mrtydi-v1.1-ru"
   },
   "mrtydi-v1.1-swahili-mdpr-tied-pft-nq": {
     "description": "Faiss index for Mr.TyDi v1.1 (Swahili) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -400,7 +400,7 @@
     "size": 389244265,
     "documents": 136689,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-swahili"
+    "texts": "mrtydi-v1.1-sw"
   },
   "mrtydi-v1.1-telugu-mdpr-tied-pft-nq": {
     "description": "Faiss index for Mr.TyDi v1.1 (Telugu) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -413,7 +413,7 @@
     "size": 1558691592,
     "documents": 548224,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-telugu"
+    "texts": "mrtydi-v1.1-te"
   },
   "mrtydi-v1.1-thai-mdpr-tied-pft-nq": {
     "description": "Faiss index for Mr.TyDi v1.1 (Thai) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -426,7 +426,7 @@
     "size": 1613563144,
     "documents": 568855,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-thai"
+    "texts": "mrtydi-v1.1-th"
   },
   "mrtydi-v1.1-arabic-mdpr-tied-pft-msmarco-ft-all": {
     "description": "Faiss index for Mr.TyDi v1.1 (Arabic) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -439,7 +439,7 @@
     "size": 5993958479,
     "documents": 2106586,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-arabic"
+    "texts": "mrtydi-v1.1-ar"
   },
   "mrtydi-v1.1-bengali-mdpr-tied-pft-msmarco-ft-all": {
     "description": "Faiss index for Mr.TyDi v1.1 (Bengali) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -452,7 +452,7 @@
     "size": 865412932,
     "documents": 304059,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-bengali"
+    "texts": "mrtydi-v1.1-bn"
   },
   "mrtydi-v1.1-english-mdpr-tied-pft-msmarco-ft-all": {
     "description": "Faiss index for Mr.TyDi v1.1 (English) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -465,7 +465,7 @@
     "size": 93697654837,
     "documents": 32907100,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-english"
+    "texts": "mrtydi-v1.1-en"
   },
   "mrtydi-v1.1-finnish-mdpr-tied-pft-msmarco-ft-all": {
     "description": "Faiss index for Mr.TyDi v1.1 (Finnish) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -478,7 +478,7 @@
     "size": 5433647583,
     "documents": 1908757,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-finnish"
+    "texts": "mrtydi-v1.1-fi"
   },
   "mrtydi-v1.1-indonesian-mdpr-tied-pft-msmarco-ft-all": {
     "description": "Faiss index for Mr.TyDi v1.1 (Indonesian) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -491,7 +491,7 @@
     "size": 4177273338,
     "documents": 4179177829,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-indonesian"
+    "texts": "mrtydi-v1.1-id"
   },
   "mrtydi-v1.1-japanese-mdpr-tied-pft-msmarco-ft-all": {
     "description": "Faiss index for Mr.TyDi v1.1 (Japanese) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -504,7 +504,7 @@
     "size": 19917667830,
     "documents": 7000027,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-japanese"
+    "texts": "mrtydi-v1.1-ja"
   },
   "mrtydi-v1.1-korean-mdpr-tied-pft-msmarco-ft-all": {
     "description": "Faiss index for Mr.TyDi v1.1 (Korean) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -517,7 +517,7 @@
     "size": 4256039967,
     "documents": 1496126,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-korean"
+    "texts": "mrtydi-v1.1-ko"
   },
   "mrtydi-v1.1-russian-mdpr-tied-pft-msmarco-ft-all": {
     "description": "Faiss index for Mr.TyDi v1.1 (Russian) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -530,7 +530,7 @@
     "size": 27315435288,
     "documents": 9597504,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-russian"
+    "texts": "mrtydi-v1.1-ru"
   },
   "mrtydi-v1.1-swahili-mdpr-tied-pft-msmarco-ft-all": {
     "description": "Faiss index for Mr.TyDi v1.1 (Swahili) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -543,7 +543,7 @@
     "size": 389336970,
     "documents": 136689,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-swahili"
+    "texts": "mrtydi-v1.1-sw"
   },
   "mrtydi-v1.1-telugu-mdpr-tied-pft-msmarco-ft-all": {
     "description": "Faiss index for Mr.TyDi v1.1 (Telugu) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -556,7 +556,7 @@
     "size": 1560353621,
     "documents": 548224,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-telugu"
+    "texts": "mrtydi-v1.1-te"
   },
   "mrtydi-v1.1-thai-mdpr-tied-pft-msmarco-ft-all": {
     "description": "Faiss index for Mr.TyDi v1.1 (Thai) corpus encoded by mDPR passage encoder pre-fine-tuned on NQ.",
@@ -569,6 +569,6 @@
     "size": 1615313134,
     "documents": 568855,
     "downloaded": false,
-    "texts": "mrtydi-v1.1-thai"
+    "texts": "mrtydi-v1.1-th"
   }
 }
