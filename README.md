@@ -4,5 +4,5 @@
 
 This repository provides the source of truth for prebuilt indexes used by [Anserini](http://anserini.io/) and [Pyserini](http://pyserini.io/).
 
-+ Metadata for Lucene indexes are stored in [`lucene/`](https://github.com/castorini/prebuilt-indexes/tree/main/lucene): comprising "inverted", "impact", "hnsw", and "flat".
-+ Metadata for Faiss indexes are stored in [`faiss/`](https://github.com/castorini/prebuilt-indexes/tree/main/faiss).
++ Metadata for Lucene indexes is stored in [`lucene/`](https://github.com/castorini/prebuilt-indexes/tree/main/lucene).
++ Metadata for Faiss indexes is stored in [`faiss/`](https://github.com/castorini/prebuilt-indexes/tree/main/faiss).
