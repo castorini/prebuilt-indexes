@@ -1,4 +1,4 @@
-<img src="docs/pyserini-logo.png" width="200" />
+<img src="docs/pyserini-logo-small.png" width="200" />
 
 # Prebuilt Index Metadata for Anserini and Pyserini
 
