@@ -1013,5 +1013,498 @@
         "documents": 5183,
         "total_terms": 47317323,
         "unique_terms": 16385
+    },
+    {
+        "name": "beir-v1.0.0-trec-covid.slideon",
+        "type": "impact",
+        "corpus": "BEIR: trec-covid, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-trec-covid.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'trec-covid' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-trec-covid.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-trec-covid.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "880208647f6742cc244da99b770bfa8f",
+        "size": 98157819,
+        "documents": 171332,
+        "total_terms": 444531780,
+        "unique_terms": 31170
+    },
+    {
+        "name": "beir-v1.0.0-bioasq.slideon",
+        "type": "impact",
+        "corpus": "BEIR: bioasq, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-bioasq.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'bioasq' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-bioasq.slideon-d512-s100.20261026.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-bioasq.slideon-d512-s100.20261026.43c2471.tar.gz"
+        ],
+        "md5": "ffe09383b7507e937e7e34301cfc7972",
+        "size": 9514177943,
+        "documents": 14914603,
+        "total_terms": 44331251843,
+        "unique_terms": 32514
+    },
+    {
+        "name": "beir-v1.0.0-nfcorpus.slideon",
+        "type": "impact",
+        "corpus": "BEIR: nfcorpus, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-nfcorpus.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'nfcorpus' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-nfcorpus.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-nfcorpus.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "12d02b52f060b1c856bfca875e36bff5",
+        "size": 2704751,
+        "documents": 3633,
+        "total_terms": 10527550,
+        "unique_terms": 22725
+    },
+    {
+        "name": "beir-v1.0.0-nq.slideon",
+        "type": "impact",
+        "corpus": "BEIR: nq, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-nq.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'nq' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-nq.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-nq.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "1a4d34f93e079f40a068a0b5d283d4ef",
+        "size": 1643670209,
+        "documents": 2681468,
+        "total_terms": 7476338346,
+        "unique_terms": 32700
+    },
+    {
+        "name": "beir-v1.0.0-hotpotqa.slideon",
+        "type": "impact",
+        "corpus": "BEIR: hotpotqa, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-hotpotqa.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'hotpotqa' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-hotpotqa.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-hotpotqa.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "e2dd5c1cf97b93aff6a9b5a7aafaef45",
+        "size": 3184485918,
+        "documents": 5233329,
+        "total_terms": 12395905672,
+        "unique_terms": 32665
+    },
+    {
+        "name": "beir-v1.0.0-fiqa.slideon",
+        "type": "impact",
+        "corpus": "BEIR: fiqa, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-fiqa.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'fiqa' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-fiqa.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-fiqa.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "6be4349bc0afb26d78b5931b66cfe9db",
+        "size": 36800917,
+        "documents": 57638,
+        "total_terms": 121658443,
+        "unique_terms": 32013
+    },
+    {
+        "name": "beir-v1.0.0-signal1m.slideon",
+        "type": "impact",
+        "corpus": "BEIR: signal1m, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-signal1m.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'signal1m' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-signal1m.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-signal1m.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "597ffc7799340e4c6354a55886d0dd21",
+        "size": 1072345046,
+        "documents": 2866316,
+        "total_terms": 5135876799,
+        "unique_terms": 32474
+    },
+    {
+        "name": "beir-v1.0.0-trec-news.slideon",
+        "type": "impact",
+        "corpus": "BEIR: trec-news, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-trec-news.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'trec-news' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-trec-news.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-trec-news.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "6a33d7e91821b6b23bf3b56e7a093a8f",
+        "size": 420626827,
+        "documents": 594977,
+        "total_terms": 2004997849,
+        "unique_terms": 32146
+    },
+    {
+        "name": "beir-v1.0.0-robust04.slideon",
+        "type": "impact",
+        "corpus": "BEIR: robust04, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-robust04.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'robust04' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-robust04.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-robust04.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "fdcc5aead0fa1f5754d77e1f46005ff7",
+        "size": 347154175,
+        "documents": 528155,
+        "total_terms": 1870735465,
+        "unique_terms": 31771
+    },
+    {
+        "name": "beir-v1.0.0-arguana.slideon",
+        "type": "impact",
+        "corpus": "BEIR: arguana, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-arguana.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'arguana' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-arguana.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-arguana.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "ee5ce72cd8a7cc691f16695357be06fe",
+        "size": 6260966,
+        "documents": 8674,
+        "total_terms": 25073435,
+        "unique_terms": 28241
+    },
+    {
+        "name": "beir-v1.0.0-webis-touche2020.slideon",
+        "type": "impact",
+        "corpus": "BEIR: webis-touche2020, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-webis-touche2020.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'webis-touche2020' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-webis-touche2020.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-webis-touche2020.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "2949d7ae00d710b3ef91c2fdb45e0eaa",
+        "size": 220554785,
+        "documents": 382545,
+        "total_terms": 917412096,
+        "unique_terms": 32481
+    },
+    {
+        "name": "beir-v1.0.0-cqadupstack-android.slideon",
+        "type": "impact",
+        "corpus": "BEIR: cqadupstack-android, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-cqadupstack-android.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'cqadupstack-android' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-cqadupstack-android.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-cqadupstack-android.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "386d82b8321cfd7990140fc6b341c291",
+        "size": 13628619,
+        "documents": 22998,
+        "total_terms": 50612582,
+        "unique_terms": 27580
+    },
+    {
+        "name": "beir-v1.0.0-cqadupstack-english.slideon",
+        "type": "impact",
+        "corpus": "BEIR: cqadupstack-english, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-cqadupstack-english.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'cqadupstack-english' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-cqadupstack-english.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-cqadupstack-english.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "e089de21acc3ad2446c77fd2285edd42",
+        "size": 23428450,
+        "documents": 40221,
+        "total_terms": 81079274,
+        "unique_terms": 31011
+    },
+    {
+        "name": "beir-v1.0.0-cqadupstack-gaming.slideon",
+        "type": "impact",
+        "corpus": "BEIR: cqadupstack-gaming, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-cqadupstack-gaming.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'cqadupstack-gaming' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-cqadupstack-gaming.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-cqadupstack-gaming.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "2159f5217ca324b2251f630f447aefe8",
+        "size": 26722497,
+        "documents": 45301,
+        "total_terms": 100085668,
+        "unique_terms": 30407
+    },
+    {
+        "name": "beir-v1.0.0-cqadupstack-gis.slideon",
+        "type": "impact",
+        "corpus": "BEIR: cqadupstack-gis, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-cqadupstack-gis.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'cqadupstack-gis' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-cqadupstack-gis.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-cqadupstack-gis.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "305ed9621166050abd50e348586bb501",
+        "size": 23438119,
+        "documents": 37637,
+        "total_terms": 85523232,
+        "unique_terms": 29458
+    },
+    {
+        "name": "beir-v1.0.0-cqadupstack-mathematica.slideon",
+        "type": "impact",
+        "corpus": "BEIR: cqadupstack-mathematica, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-cqadupstack-mathematica.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'cqadupstack-mathematica' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-cqadupstack-mathematica.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-cqadupstack-mathematica.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "e2c7c819f565c71f258d71a6fef6f695",
+        "size": 10708081,
+        "documents": 16705,
+        "total_terms": 38517971,
+        "unique_terms": 27314
+    },
+    {
+        "name": "beir-v1.0.0-cqadupstack-physics.slideon",
+        "type": "impact",
+        "corpus": "BEIR: cqadupstack-physics, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-cqadupstack-physics.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'cqadupstack-physics' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-cqadupstack-physics.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-cqadupstack-physics.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "b3690338d4f81b7f944b0e73b9e5da88",
+        "size": 24006423,
+        "documents": 38316,
+        "total_terms": 84134896,
+        "unique_terms": 30200
+    },
+    {
+        "name": "beir-v1.0.0-cqadupstack-programmers.slideon",
+        "type": "impact",
+        "corpus": "BEIR: cqadupstack-programmers, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-cqadupstack-programmers.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'cqadupstack-programmers' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-cqadupstack-programmers.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-cqadupstack-programmers.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "114a1d871793e06aad395f24dce25040",
+        "size": 20755333,
+        "documents": 32176,
+        "total_terms": 71803773,
+        "unique_terms": 29973
+    },
+    {
+        "name": "beir-v1.0.0-cqadupstack-stats.slideon",
+        "type": "impact",
+        "corpus": "BEIR: cqadupstack-stats, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-cqadupstack-stats.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'cqadupstack-stats' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-cqadupstack-stats.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-cqadupstack-stats.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "5c37208ebfdb0c13f6f4fb4119bbc1e7",
+        "size": 26462349,
+        "documents": 42269,
+        "total_terms": 92464817,
+        "unique_terms": 30058
+    },
+    {
+        "name": "beir-v1.0.0-cqadupstack-tex.slideon",
+        "type": "impact",
+        "corpus": "BEIR: cqadupstack-tex, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-cqadupstack-tex.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'cqadupstack-tex' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-cqadupstack-tex.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-cqadupstack-tex.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "b8b2dc79d530adef80c1c65bf9733ff6",
+        "size": 41873533,
+        "documents": 68184,
+        "total_terms": 156577164,
+        "unique_terms": 30054
+    },
+    {
+        "name": "beir-v1.0.0-cqadupstack-unix.slideon",
+        "type": "impact",
+        "corpus": "BEIR: cqadupstack-unix, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-cqadupstack-unix.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'cqadupstack-unix' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-cqadupstack-unix.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-cqadupstack-unix.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "30d79d4d551e7d5c18aa4d00717670d6",
+        "size": 29284300,
+        "documents": 47382,
+        "total_terms": 105097839,
+        "unique_terms": 29481
+    },
+    {
+        "name": "beir-v1.0.0-cqadupstack-webmasters.slideon",
+        "type": "impact",
+        "corpus": "BEIR: cqadupstack-webmasters, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-cqadupstack-webmasters.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'cqadupstack-webmasters' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-cqadupstack-webmasters.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-cqadupstack-webmasters.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "5e45627e1048435daf4a3dbb342ac9f1",
+        "size": 11055016,
+        "documents": 17405,
+        "total_terms": 37000441,
+        "unique_terms": 28675
+    },
+    {
+        "name": "beir-v1.0.0-cqadupstack-wordpress.slideon",
+        "type": "impact",
+        "corpus": "BEIR: cqadupstack-wordpress, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-cqadupstack-wordpress.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'cqadupstack-wordpress' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-cqadupstack-wordpress.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-cqadupstack-wordpress.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "43d5eaad9b399d0fb09b9d1bd021c5cb",
+        "size": 29332250,
+        "documents": 48605,
+        "total_terms": 104922521,
+        "unique_terms": 29016
+    },
+    {
+        "name": "beir-v1.0.0-quora.slideon",
+        "type": "impact",
+        "corpus": "BEIR: quora, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-quora.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'quora' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-quora.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-quora.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "585bcf7478cc345541e5ab90ee6d06ad",
+        "size": 117212511,
+        "documents": 522931,
+        "total_terms": 527725795,
+        "unique_terms": 31996
+    },
+    {
+        "name": "beir-v1.0.0-dbpedia-entity.slideon",
+        "type": "impact",
+        "corpus": "BEIR: dbpedia-entity, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-dbpedia-entity.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'dbpedia-entity' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-dbpedia-entity.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-dbpedia-entity.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "c7003e16713bc2f64da6e2cce19361a5",
+        "size": 3111096309,
+        "documents": 4635922,
+        "total_terms": 11411136242,
+        "unique_terms": 32663
+    },
+    {
+        "name": "beir-v1.0.0-scidocs.slideon",
+        "type": "impact",
+        "corpus": "BEIR: scidocs, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-scidocs.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'scidocs' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-scidocs.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-scidocs.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "fa11a93cd1ca7b778786fa1e2bda0a76",
+        "size": 19183422,
+        "documents": 25657,
+        "total_terms": 72757592,
+        "unique_terms": 29303
+    },
+    {
+        "name": "beir-v1.0.0-fever.slideon",
+        "type": "impact",
+        "corpus": "BEIR: fever, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-fever.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'fever' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-fever.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-fever.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "39575204400165f586a648e47a6e6b3e",
+        "size": 3473059602,
+        "documents": 5416568,
+        "total_terms": 11419821676,
+        "unique_terms": 32714
+    },
+    {
+        "name": "beir-v1.0.0-climate-fever.slideon",
+        "type": "impact",
+        "corpus": "BEIR: climate-fever, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-climate-fever.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'climate-fever' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-climate-fever.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-climate-fever.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "0c819e1185b6c46b560f739255c0c819",
+        "size": 3473105709,
+        "documents": 5416593,
+        "total_terms": 11419910938,
+        "unique_terms": 32714
+    },
+    {
+        "name": "beir-v1.0.0-scifact.slideon",
+        "type": "impact",
+        "corpus": "BEIR: scifact, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "beir-v1.0.0-scifact.flat",
+        "description": "Anserini Lucene impact index of BEIR collection 'scifact' encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.beir-v1.0.0-scifact.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/blob/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-beir/resolve/main/lucene-inverted/slideon/lucene-inverted.beir-v1.0.0-scifact.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "146908a7cac0424b024332d6cb585427",
+        "size": 3813048,
+        "documents": 5183,
+        "total_terms": 15424368,
+        "unique_terms": 23058
     }
 ]
