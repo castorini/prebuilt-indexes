@@ -270,5 +270,22 @@
         "total_terms": 95445422483,
         "documents": 8841823,
         "unique_terms": 28131
+    },
+    {
+        "name": "msmarco-v1-passage.slideon",
+        "type": "impact",
+        "corpus": "MS MARCO V1 Passage, encoded by SlideOn (d512, scale 100)",
+        "corpus_index": "msmarco-v1-passage",
+        "description": "Anserini Lucene impact index of the MS MARCO V1 passage corpus encoded by SlideOn (d512, scale 100)",
+        "filename": "lucene-inverted.msmarco-v1-passage.slideon-d512-s100.20261025.43c2471.tar.gz",
+        "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-msmarco-v1/blob/main/passage/original/lucene-inverted/slideon/lucene-inverted.msmarco-v1-passage.slideon-d512-s100.20261025.43c2471.README.md",
+        "urls": [
+            "https://huggingface.co/datasets/castorini/prebuilt-indexes-msmarco-v1/resolve/main/passage/original/lucene-inverted/slideon/lucene-inverted.msmarco-v1-passage.slideon-d512-s100.20261025.43c2471.tar.gz"
+        ],
+        "md5": "94e458ad39eaa847d4fc70e61e7c76ee",
+        "size": 4973987585,
+        "documents": 8841823,
+        "total_terms": 19395719605,
+        "unique_terms": 32739
     }
 ]
