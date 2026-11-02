@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
 """Generate or check the Lucene and Faiss metadata manifests."""
 
 import argparse
@@ -8,9 +8,7 @@ from pathlib import Path
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument(
-        "--check", action="store_true", help="Check manifests without modifying files."
-    )
+    parser.add_argument("--check", action="store_true", help="Check manifests without modifying files.")
     args = parser.parse_args()
     root = Path(__file__).resolve().parent.parent
     stale = False
@@ -35,7 +33,7 @@ def main():
             print(f"Generated {relative_path} ({len(filenames)} files)")
 
     if stale:
-        print("Run python3 scripts/generate_manifests.py to regenerate manifests.")
+        print("Run python scripts/generate_manifests.py to regenerate manifests.")
         return 1
     return 0
 
