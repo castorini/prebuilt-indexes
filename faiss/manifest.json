@@ -1,0 +1,13 @@
+[
+  "beir-faiss.json",
+  "bright-faiss.json",
+  "ciral-faiss.json",
+  "dse-faiss.json",
+  "m-beir-faiss.json",
+  "miracl-faiss.json",
+  "mmeb-faiss.json",
+  "mrtydi-faiss.json",
+  "msmarco-faiss.json",
+  "other-faiss.json",
+  "wikipedia-faiss.json"
+]
