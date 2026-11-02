@@ -24,5 +24,6 @@
   "msmarco-v2.1-doc-segmented-hnsw.json",
   "msmarco-v2.1-doc-segmented-impact.json",
   "msmarco-v2.1-doc-segmented-inverted.json",
-  "other-inverted.json"
+  "other-inverted.json",
+  "reteco-inverted.json"
 ]
