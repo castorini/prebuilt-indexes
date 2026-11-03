@@ -200,7 +200,6 @@ class CatalogRenderer:
         lines = [
             NOTICE,
             "# Prebuilt index catalog", "",
-            "[Repository home](../../README.md)", "",
             "Browse by backend and collection below. Each page lists index IDs, descriptions, downloads, and available README links.", "",
             "See [index documentation](../index-readmes/README.md) for build and usage instructions. A dash (—) indicates that no link is available.", "",
             "Index availability depends on your Anserini or Pyserini version. Reported sizes may differ from download or extracted sizes.", "",
