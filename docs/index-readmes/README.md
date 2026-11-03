@@ -30,6 +30,8 @@ Keep descriptive filenames so different models and build versions remain disting
 
 ## Add or update a README
 
+For the workflow, see [Adding a prebuilt index](../../README.md#adding-a-prebuilt-index).
+
 1. Add a Markdown file under `<backend>/<collection>/`, or edit an existing README directly. Include the corpus, model, build details, and usage instructions where applicable. Preserve attribution and license notices when adapting existing documentation.
 2. Set `readme_local` on the corresponding index entry in `lucene/*.json` or `faiss/*.json`. The path is relative to `docs/index-readmes/`:
 

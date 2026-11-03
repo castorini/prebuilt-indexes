@@ -20,6 +20,22 @@ For usage instructions, see [Anserini](https://github.com/castorini/anserini/blo
 + Metadata for Lucene indexes is stored in [`lucene/`](https://github.com/castorini/prebuilt-indexes/tree/main/lucene).
 + Metadata for Faiss indexes is stored in [`faiss/`](https://github.com/castorini/prebuilt-indexes/tree/main/faiss).
 
+## Adding a prebuilt index
+
+Publish the index artifact, register its metadata, and add its documentation to make it discoverable in the [index catalog](docs/catalog/README.md).
+
+```text
+Publish index artifact (Hugging Face or another host)
+    ↓
+Add a README under docs/index-readmes/<backend>/<collection>/
+    ↓
+Add index metadata with readme_local; regenerate manifests if needed
+    ↓
+Generate and check the catalog → Submit a pull request
+```
+
+Run all commands below from the repository root.
+
 ## Updating the catalog
 
 The catalog is generated from the metadata; do not edit its Markdown pages directly.
