@@ -6,6 +6,7 @@
     "corpus_index": "reteco-v1.1-track1-bitcoin",
     "description": "Anserini Lucene inverted index of the official deduplicated RETECO v1.1 Track 1 collection: bitcoin",
     "filename": "lucene-inverted.reteco-v1.1-track1-bitcoin.20261017.1.6.0.tar.gz",
+    "readme_local": "lucene/reteco/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/blob/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/resolve/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1-bitcoin.20261017.1.6.0.tar.gz"
@@ -24,6 +25,7 @@
     "corpus_index": "reteco-v1.1-track1-cardano",
     "description": "Anserini Lucene inverted index of the official deduplicated RETECO v1.1 Track 1 collection: cardano",
     "filename": "lucene-inverted.reteco-v1.1-track1-cardano.20261017.1.6.0.tar.gz",
+    "readme_local": "lucene/reteco/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/blob/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/resolve/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1-cardano.20261017.1.6.0.tar.gz"
@@ -42,6 +44,7 @@
     "corpus_index": "reteco-v1.1-track1-economics",
     "description": "Anserini Lucene inverted index of the official deduplicated RETECO v1.1 Track 1 collection: economics",
     "filename": "lucene-inverted.reteco-v1.1-track1-economics.20261017.1.6.0.tar.gz",
+    "readme_local": "lucene/reteco/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/blob/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/resolve/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1-economics.20261017.1.6.0.tar.gz"
@@ -60,6 +63,7 @@
     "corpus_index": "reteco-v1.1-track1-genealogy",
     "description": "Anserini Lucene inverted index of the official deduplicated RETECO v1.1 Track 1 collection: genealogy",
     "filename": "lucene-inverted.reteco-v1.1-track1-genealogy.20261017.1.6.0.tar.gz",
+    "readme_local": "lucene/reteco/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/blob/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/resolve/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1-genealogy.20261017.1.6.0.tar.gz"
@@ -78,6 +82,7 @@
     "corpus_index": "reteco-v1.1-track1-history",
     "description": "Anserini Lucene inverted index of the official deduplicated RETECO v1.1 Track 1 collection: history",
     "filename": "lucene-inverted.reteco-v1.1-track1-history.20261017.1.6.0.tar.gz",
+    "readme_local": "lucene/reteco/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/blob/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/resolve/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1-history.20261017.1.6.0.tar.gz"
@@ -96,6 +101,7 @@
     "corpus_index": "reteco-v1.1-track1-hsm",
     "description": "Anserini Lucene inverted index of the official deduplicated RETECO v1.1 Track 1 collection: hsm",
     "filename": "lucene-inverted.reteco-v1.1-track1-hsm.20261017.1.6.0.tar.gz",
+    "readme_local": "lucene/reteco/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/blob/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/resolve/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1-hsm.20261017.1.6.0.tar.gz"
@@ -114,6 +120,7 @@
     "corpus_index": "reteco-v1.1-track1-iota",
     "description": "Anserini Lucene inverted index of the official deduplicated RETECO v1.1 Track 1 collection: iota",
     "filename": "lucene-inverted.reteco-v1.1-track1-iota.20261017.1.6.0.tar.gz",
+    "readme_local": "lucene/reteco/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/blob/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/resolve/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1-iota.20261017.1.6.0.tar.gz"
@@ -132,6 +139,7 @@
     "corpus_index": "reteco-v1.1-track1-law",
     "description": "Anserini Lucene inverted index of the official deduplicated RETECO v1.1 Track 1 collection: law",
     "filename": "lucene-inverted.reteco-v1.1-track1-law.20261017.1.6.0.tar.gz",
+    "readme_local": "lucene/reteco/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/blob/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/resolve/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1-law.20261017.1.6.0.tar.gz"
@@ -150,6 +158,7 @@
     "corpus_index": "reteco-v1.1-track1-monero",
     "description": "Anserini Lucene inverted index of the official deduplicated RETECO v1.1 Track 1 collection: monero",
     "filename": "lucene-inverted.reteco-v1.1-track1-monero.20261017.1.6.0.tar.gz",
+    "readme_local": "lucene/reteco/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/blob/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/resolve/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1-monero.20261017.1.6.0.tar.gz"
@@ -168,6 +177,7 @@
     "corpus_index": "reteco-v1.1-track1-politics",
     "description": "Anserini Lucene inverted index of the official deduplicated RETECO v1.1 Track 1 collection: politics",
     "filename": "lucene-inverted.reteco-v1.1-track1-politics.20261017.1.6.0.tar.gz",
+    "readme_local": "lucene/reteco/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/blob/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/resolve/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1-politics.20261017.1.6.0.tar.gz"
@@ -186,6 +196,7 @@
     "corpus_index": "reteco-v1.1-track1-quant",
     "description": "Anserini Lucene inverted index of the official deduplicated RETECO v1.1 Track 1 collection: quant",
     "filename": "lucene-inverted.reteco-v1.1-track1-quant.20261017.1.6.0.tar.gz",
+    "readme_local": "lucene/reteco/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/blob/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/resolve/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1-quant.20261017.1.6.0.tar.gz"
@@ -204,6 +215,7 @@
     "corpus_index": "reteco-v1.1-track1-travel",
     "description": "Anserini Lucene inverted index of the official deduplicated RETECO v1.1 Track 1 collection: travel",
     "filename": "lucene-inverted.reteco-v1.1-track1-travel.20261017.1.6.0.tar.gz",
+    "readme_local": "lucene/reteco/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/blob/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/resolve/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1-travel.20261017.1.6.0.tar.gz"
@@ -222,6 +234,7 @@
     "corpus_index": "reteco-v1.1-track1-workplace",
     "description": "Anserini Lucene inverted index of the official deduplicated RETECO v1.1 Track 1 collection: workplace",
     "filename": "lucene-inverted.reteco-v1.1-track1-workplace.20261017.1.6.0.tar.gz",
+    "readme_local": "lucene/reteco/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "readme": "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/blob/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1.20261017.1.6.0.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-reteco/resolve/main/lucene-inverted/tf/lucene-inverted.reteco-v1.1-track1-workplace.20261017.1.6.0.tar.gz"

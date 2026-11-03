@@ -2,6 +2,7 @@
   "cast2019-tct_colbert-v2.hnsw": {
     "description": "Faiss HNSW index of the CAsT2019 passage corpus encoded by the tct_colbert-v2 passage encoder",
     "filename": "faiss-hnsw.cast2019.tct_colbert-v2.tar.gz",
+    "readme_local": "faiss/cast2019/faiss-hnsw.cast2019.tct_colbert-v2-readme.md",
     "readme": "faiss-hnsw.cast2019.tct_colbert-v2-readme.txt",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/hnsw-faiss.cast2019.tct_colbert-v2.tar.gz"

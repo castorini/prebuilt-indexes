@@ -6,6 +6,7 @@
         "corpus_index": "ciral-v1.0-ha",
         "description": "Lucene index for CIRAL v1.0 (Hausa).",
         "filename": "lucene-index.ciral-v1.0-ha.20230721.e850ea.tar.gz",
+        "readme_local": "lucene/ciral/lucene-index.ciral-v1.0.20230721.e850ea.README.md",
         "readme": "lucene-index.ciral-v1.0.20230721.e850ea.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene-index.ciral-v1.0-ha.20230721.e850ea.tar.gz"
@@ -23,6 +24,7 @@
         "corpus_index": "ciral-v1.0-so",
         "description": "Lucene index for CIRAL v1.0 (Somali).",
         "filename": "lucene-index.ciral-v1.0-so.20230721.e850ea.tar.gz",
+        "readme_local": "lucene/ciral/lucene-index.ciral-v1.0.20230721.e850ea.README.md",
         "readme": "lucene-index.ciral-v1.0.20230721.e850ea.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene-index.ciral-v1.0-so.20230721.e850ea.tar.gz"
@@ -40,6 +42,7 @@
         "corpus_index": "ciral-v1.0-sw",
         "description": "Lucene index for CIRAL v1.0 (Swahili).",
         "filename": "lucene-index.ciral-v1.0-sw.20230721.e850ea.tar.gz",
+        "readme_local": "lucene/ciral/lucene-index.ciral-v1.0.20230721.e850ea.README.md",
         "readme": "lucene-index.ciral-v1.0.20230721.e850ea.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene-index.ciral-v1.0-sw.20230721.e850ea.tar.gz"
@@ -57,6 +60,7 @@
         "corpus_index": "ciral-v1.0-yo",
         "description": "Lucene index for CIRAL v1.0 (Yoruba).",
         "filename": "lucene-index.ciral-v1.0-yo.20230721.e850ea.tar.gz",
+        "readme_local": "lucene/ciral/lucene-index.ciral-v1.0.20230721.e850ea.README.md",
         "readme": "lucene-index.ciral-v1.0.20230721.e850ea.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene-index.ciral-v1.0-yo.20230721.e850ea.tar.gz"
@@ -74,6 +78,7 @@
         "corpus_index": "ciral-v1.0-ha-en",
         "description": "Lucene index for CIRAL v1.0 English Translations (Hausa).",
         "filename": "lucene-index.ciral-v1.0-ha-en.20240212.2154e7.tar.gz",
+        "readme_local": "lucene/ciral/lucene-index.ciral-v1.0-en.20240212.2154e7.README.md",
         "readme": "lucene-index.ciral-v1.0-en.20240212.2154e7.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene-index.ciral-v1.0-ha-en.20240212.2154e7.tar.gz"
@@ -91,6 +96,7 @@
         "corpus_index": "ciral-v1.0-so-en",
         "description": "Lucene index for CIRAL v1.0 English Translations (Somali).",
         "filename": "lucene-index.ciral-v1.0-so-en.20240212.2154e7.tar.gz",
+        "readme_local": "lucene/ciral/lucene-index.ciral-v1.0-en.20240212.2154e7.README.md",
         "readme": "lucene-index.ciral-v1.0-en.20240212.2154e7.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene-index.ciral-v1.0-so-en.20240212.2154e7.tar.gz"
@@ -108,6 +114,7 @@
         "corpus_index": "ciral-v1.0-sw-en",
         "description": "Lucene index for CIRAL v1.0 English Translations (Swahili).",
         "filename": "lucene-index.ciral-v1.0-sw-en.20240212.2154e7.tar.gz",
+        "readme_local": "lucene/ciral/lucene-index.ciral-v1.0-en.20240212.2154e7.README.md",
         "readme": "lucene-index.ciral-v1.0-en.20240212.2154e7.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene-index.ciral-v1.0-sw-en.20240212.2154e7.tar.gz"
@@ -125,6 +132,7 @@
         "corpus_index": "ciral-v1.0-yo-en",
         "description": "Lucene index for CIRAL v1.0 English Translations (Yoruba).",
         "filename": "lucene-index.ciral-v1.0-yo-en.20240212.2154e7.tar.gz",
+        "readme_local": "lucene/ciral/lucene-index.ciral-v1.0-en.20240212.2154e7.README.md",
         "readme": "lucene-index.ciral-v1.0-en.20240212.2154e7.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene-index.ciral-v1.0-yo-en.20240212.2154e7.tar.gz"
