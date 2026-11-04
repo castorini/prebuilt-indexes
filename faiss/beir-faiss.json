@@ -2,6 +2,7 @@
   "beir-v1.0.0-trec-covid.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): TREC-COVID, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-trec-covid.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-trec-covid.contriever.20230124.tar.gz"
@@ -15,6 +16,7 @@
   "beir-v1.0.0-bioasq.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): BioASQ, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-bioasq.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-bioasq.contriever.20230124.tar.gz"
@@ -28,6 +30,7 @@
   "beir-v1.0.0-nfcorpus.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): NFCorpus, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-nfcorpus.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-nfcorpus.contriever.20230124.tar.gz"
@@ -41,6 +44,7 @@
   "beir-v1.0.0-nq.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): NQ, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-nq.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-nq.contriever.20230124.tar.gz"
@@ -54,6 +58,7 @@
   "beir-v1.0.0-hotpotqa.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): HotpotQA, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-hotpotqa.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-hotpotqa.contriever.20230124.tar.gz"
@@ -67,6 +72,7 @@
   "beir-v1.0.0-fiqa.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): FiQA-2018, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-fiqa.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-fiqa.contriever.20230124.tar.gz"
@@ -80,6 +86,7 @@
   "beir-v1.0.0-signal1m.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): Signal-1M, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-signal1m.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-signal1m.contriever.20230124.tar.gz"
@@ -93,6 +100,7 @@
   "beir-v1.0.0-trec-news.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): TREC-NEWS, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-trec-news.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-trec-news.contriever.20230124.tar.gz"
@@ -106,6 +114,7 @@
   "beir-v1.0.0-robust04.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): Robust04, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-robust04.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-robust04.contriever.20230124.tar.gz"
@@ -119,6 +128,7 @@
   "beir-v1.0.0-arguana.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): ArguAna, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-arguana.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-arguana.contriever.20230124.tar.gz"
@@ -132,6 +142,7 @@
   "beir-v1.0.0-webis-touche2020.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): Webis-Touche2020, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-webis-touche2020.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-webis-touche2020.contriever.20230124.tar.gz"
@@ -145,6 +156,7 @@
   "beir-v1.0.0-cqadupstack-android.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-android, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-android.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-android.contriever.20230124.tar.gz"
@@ -158,6 +170,7 @@
   "beir-v1.0.0-cqadupstack-english.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-english, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-english.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-english.contriever.20230124.tar.gz"
@@ -171,6 +184,7 @@
   "beir-v1.0.0-cqadupstack-gaming.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-gaming, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-gaming.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-gaming.contriever.20230124.tar.gz"
@@ -184,6 +198,7 @@
   "beir-v1.0.0-cqadupstack-gis.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-gis, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-gis.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-gis.contriever.20230124.tar.gz"
@@ -197,6 +212,7 @@
   "beir-v1.0.0-cqadupstack-mathematica.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-mathematica, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-mathematica.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-mathematica.contriever.20230124.tar.gz"
@@ -210,6 +226,7 @@
   "beir-v1.0.0-cqadupstack-physics.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-physics, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-physics.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-physics.contriever.20230124.tar.gz"
@@ -223,6 +240,7 @@
   "beir-v1.0.0-cqadupstack-programmers.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-programmers, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-programmers.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-programmers.contriever.20230124.tar.gz"
@@ -236,6 +254,7 @@
   "beir-v1.0.0-cqadupstack-stats.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-stats, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-stats.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-stats.contriever.20230124.tar.gz"
@@ -249,6 +268,7 @@
   "beir-v1.0.0-cqadupstack-tex.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-tex, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-tex.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-tex.contriever.20230124.tar.gz"
@@ -262,6 +282,7 @@
   "beir-v1.0.0-cqadupstack-unix.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-unix, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-unix.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-unix.contriever.20230124.tar.gz"
@@ -275,6 +296,7 @@
   "beir-v1.0.0-cqadupstack-webmasters.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-webmasters, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-webmasters.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-webmasters.contriever.20230124.tar.gz"
@@ -288,6 +310,7 @@
   "beir-v1.0.0-cqadupstack-wordpress.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-wordpress, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-wordpress.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-wordpress.contriever.20230124.tar.gz"
@@ -301,6 +324,7 @@
   "beir-v1.0.0-quora.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): Quora, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-quora.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-quora.contriever.20230124.tar.gz"
@@ -314,6 +338,7 @@
   "beir-v1.0.0-dbpedia-entity.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): DBPedia, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-dbpedia-entity.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-dbpedia-entity.contriever.20230124.tar.gz"
@@ -327,6 +352,7 @@
   "beir-v1.0.0-scidocs.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): SCIDOCS, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-scidocs.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-scidocs.contriever.20230124.tar.gz"
@@ -340,6 +366,7 @@
   "beir-v1.0.0-fever.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): FEVER, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-fever.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-fever.contriever.20230124.tar.gz"
@@ -353,6 +380,7 @@
   "beir-v1.0.0-climate-fever.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): Climate-FEVER, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-climate-fever.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-climate-fever.contriever.20230124.tar.gz"
@@ -366,6 +394,7 @@
   "beir-v1.0.0-scifact.contriever": {
     "description": "Faiss flat index for BEIR (v1.0.0): SciFact, encoded by Contriever.",
     "filename": "faiss-flat.beir-v1.0.0-scifact.contriever.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-scifact.contriever.20230124.tar.gz"
@@ -379,6 +408,7 @@
   "beir-v1.0.0-trec-covid.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): TREC-COVID, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-trec-covid.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-trec-covid.contriever-msmarco.20230124.tar.gz"
@@ -392,6 +422,7 @@
   "beir-v1.0.0-bioasq.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): BioASQ, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-bioasq.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-bioasq.contriever-msmarco.20230124.tar.gz"
@@ -405,6 +436,7 @@
   "beir-v1.0.0-nfcorpus.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): NFCorpus, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-nfcorpus.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-nfcorpus.contriever-msmarco.20230124.tar.gz"
@@ -418,6 +450,7 @@
   "beir-v1.0.0-nq.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): NQ, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-nq.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-nq.contriever-msmarco.20230124.tar.gz"
@@ -431,6 +464,7 @@
   "beir-v1.0.0-hotpotqa.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): HotpotQA, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-hotpotqa.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-hotpotqa.contriever-msmarco.20230124.tar.gz"
@@ -444,6 +478,7 @@
   "beir-v1.0.0-fiqa.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): FiQA-2018, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-fiqa.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-fiqa.contriever-msmarco.20230124.tar.gz"
@@ -457,6 +492,7 @@
   "beir-v1.0.0-signal1m.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): Signal-1M, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-signal1m.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-signal1m.contriever-msmarco.20230124.tar.gz"
@@ -470,6 +506,7 @@
   "beir-v1.0.0-trec-news.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): TREC-NEWS, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-trec-news.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-trec-news.contriever-msmarco.20230124.tar.gz"
@@ -483,6 +520,7 @@
   "beir-v1.0.0-robust04.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): Robust04, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-robust04.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-robust04.contriever-msmarco.20230124.tar.gz"
@@ -496,6 +534,7 @@
   "beir-v1.0.0-arguana.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): ArguAna, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-arguana.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-arguana.contriever-msmarco.20230124.tar.gz"
@@ -509,6 +548,7 @@
   "beir-v1.0.0-webis-touche2020.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): Webis-Touche2020, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-webis-touche2020.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-webis-touche2020.contriever-msmarco.20230124.tar.gz"
@@ -522,6 +562,7 @@
   "beir-v1.0.0-cqadupstack-android.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-android, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-android.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-android.contriever-msmarco.20230124.tar.gz"
@@ -535,6 +576,7 @@
   "beir-v1.0.0-cqadupstack-english.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-english, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-english.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-english.contriever-msmarco.20230124.tar.gz"
@@ -548,6 +590,7 @@
   "beir-v1.0.0-cqadupstack-gaming.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-gaming, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-gaming.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-gaming.contriever-msmarco.20230124.tar.gz"
@@ -561,6 +604,7 @@
   "beir-v1.0.0-cqadupstack-gis.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-gis, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-gis.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-gis.contriever-msmarco.20230124.tar.gz"
@@ -574,6 +618,7 @@
   "beir-v1.0.0-cqadupstack-mathematica.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-mathematica, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-mathematica.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-mathematica.contriever-msmarco.20230124.tar.gz"
@@ -587,6 +632,7 @@
   "beir-v1.0.0-cqadupstack-physics.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-physics, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-physics.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-physics.contriever-msmarco.20230124.tar.gz"
@@ -600,6 +646,7 @@
   "beir-v1.0.0-cqadupstack-programmers.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-programmers, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-programmers.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-programmers.contriever-msmarco.20230124.tar.gz"
@@ -613,6 +660,7 @@
   "beir-v1.0.0-cqadupstack-stats.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-stats, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-stats.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-stats.contriever-msmarco.20230124.tar.gz"
@@ -626,6 +674,7 @@
   "beir-v1.0.0-cqadupstack-tex.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-tex, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-tex.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-tex.contriever-msmarco.20230124.tar.gz"
@@ -639,6 +688,7 @@
   "beir-v1.0.0-cqadupstack-unix.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-unix, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-unix.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-unix.contriever-msmarco.20230124.tar.gz"
@@ -652,6 +702,7 @@
   "beir-v1.0.0-cqadupstack-webmasters.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-webmasters, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-webmasters.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-webmasters.contriever-msmarco.20230124.tar.gz"
@@ -665,6 +716,7 @@
   "beir-v1.0.0-cqadupstack-wordpress.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): CQADupStack-wordpress, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-wordpress.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-wordpress.contriever-msmarco.20230124.tar.gz"
@@ -678,6 +730,7 @@
   "beir-v1.0.0-quora.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): Quora, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-quora.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-quora.contriever-msmarco.20230124.tar.gz"
@@ -691,6 +744,7 @@
   "beir-v1.0.0-dbpedia-entity.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): DBPedia, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-dbpedia-entity.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-dbpedia-entity.contriever-msmarco.20230124.tar.gz"
@@ -704,6 +758,7 @@
   "beir-v1.0.0-scidocs.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): SCIDOCS, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-scidocs.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-scidocs.contriever-msmarco.20230124.tar.gz"
@@ -717,6 +772,7 @@
   "beir-v1.0.0-fever.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): FEVER, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-fever.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-fever.contriever-msmarco.20230124.tar.gz"
@@ -730,6 +786,7 @@
   "beir-v1.0.0-climate-fever.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): Climate-FEVER, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-climate-fever.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-climate-fever.contriever-msmarco.20230124.tar.gz"
@@ -743,6 +800,7 @@
   "beir-v1.0.0-scifact.contriever-msmarco": {
     "description": "Faiss flat index for BEIR (v1.0.0): SciFact, encoded by Contriever w/ MS MARCO FTing.",
     "filename": "faiss-flat.beir-v1.0.0-scifact.contriever-msmarco.20230124.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "readme": "faiss-flat.beir-v1.0.0.contriever-msmarco.20230124.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-scifact.contriever-msmarco.20230124.tar.gz"
@@ -1104,6 +1162,7 @@
   "beir-v1.0.0-trec-covid.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (TREC-COVID) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-trec-covid.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-trec-covid.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1117,6 +1176,7 @@
   "beir-v1.0.0-bioasq.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (BioASQ) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-bioasq.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-bioasq.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1130,6 +1190,7 @@
   "beir-v1.0.0-nfcorpus.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (NFCorpus) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-nfcorpus.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-nfcorpus.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1143,6 +1204,7 @@
   "beir-v1.0.0-nq.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (NQ) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-nq.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-nq.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1156,6 +1218,7 @@
   "beir-v1.0.0-hotpotqa.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (HotpotQA) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-hotpotqa.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-hotpotqa.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1169,6 +1232,7 @@
   "beir-v1.0.0-fiqa.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (FiQA-2018) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-fiqa.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-fiqa.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1182,6 +1246,7 @@
   "beir-v1.0.0-signal1m.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (Signal-1M) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-signal1m.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-signal1m.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1195,6 +1260,7 @@
   "beir-v1.0.0-trec-news.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (TREC-NEWS) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-trec-news.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-trec-news.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1208,6 +1274,7 @@
   "beir-v1.0.0-robust04.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (Robust04) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-robust04.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-robust04.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1221,6 +1288,7 @@
   "beir-v1.0.0-arguana.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (ArguAna) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-arguana.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-arguana.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1234,6 +1302,7 @@
   "beir-v1.0.0-webis-touche2020.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (Webis-Touche2020) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-webis-touche2020.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-webis-touche2020.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1247,6 +1316,7 @@
   "beir-v1.0.0-cqadupstack-android.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (CQADupStack-android) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-android.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-android.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1260,6 +1330,7 @@
   "beir-v1.0.0-cqadupstack-english.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (CQADupStack-english) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-english.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-english.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1273,6 +1344,7 @@
   "beir-v1.0.0-cqadupstack-gaming.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (CQADupStack-gaming) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-gaming.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-gaming.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1286,6 +1358,7 @@
   "beir-v1.0.0-cqadupstack-gis.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (CQADupStack-gis) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-gis.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-gis.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1299,6 +1372,7 @@
   "beir-v1.0.0-cqadupstack-mathematica.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (CQADupStack-mathematica) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-mathematica.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-mathematica.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1312,6 +1386,7 @@
   "beir-v1.0.0-cqadupstack-physics.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (CQADupStack-physics) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-physics.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-physics.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1325,6 +1400,7 @@
   "beir-v1.0.0-cqadupstack-programmers.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (CQADupStack-programmers) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-programmers.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-programmers.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1338,6 +1414,7 @@
   "beir-v1.0.0-cqadupstack-stats.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (CQADupStack-stats) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-stats.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-stats.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1351,6 +1428,7 @@
   "beir-v1.0.0-cqadupstack-tex.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (CQADupStack-tex) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-tex.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-tex.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1364,6 +1442,7 @@
   "beir-v1.0.0-cqadupstack-unix.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (CQADupStack-unix) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-unix.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-unix.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1377,6 +1456,7 @@
   "beir-v1.0.0-cqadupstack-webmasters.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (CQADupStack-webmasters) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-webmasters.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-webmasters.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1390,6 +1470,7 @@
   "beir-v1.0.0-cqadupstack-wordpress.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (CQADupStack-wordpress) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-cqadupstack-wordpress.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-cqadupstack-wordpress.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1403,6 +1484,7 @@
   "beir-v1.0.0-quora.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (Quora) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-quora.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-quora.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1416,6 +1498,7 @@
   "beir-v1.0.0-dbpedia-entity.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (DBPedia) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-dbpedia-entity.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-dbpedia-entity.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1429,6 +1512,7 @@
   "beir-v1.0.0-scidocs.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (SCIDOCS) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-scidocs.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-scidocs.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1442,6 +1526,7 @@
   "beir-v1.0.0-fever.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (FEVER) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-fever.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-fever.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1455,6 +1540,7 @@
   "beir-v1.0.0-climate-fever.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (Climate-FEVER) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-climate-fever.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-climate-fever.cohere-embed-english-v3.0.20240302.tar.gz"
@@ -1468,6 +1554,7 @@
   "beir-v1.0.0-scifact.cohere-embed-english-v3.0": {
     "description": "Faiss index for BEIR v1.0.0 (SciFact) corpus encoded by cohere-embed-english-v3.0 encoder.",
     "filename": "faiss-flat.beir-v1.0.0-scifact.cohere-embed-english-v3.0.20240302.tar.gz",
+    "readme_local": "faiss/beir/faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "readme": "faiss-flat.beir-v1.0.0.cohere-embed-english-v3.0.20240302.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss/faiss-flat.beir-v1.0.0-scifact.cohere-embed-english-v3.0.20240302.tar.gz"

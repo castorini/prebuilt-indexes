@@ -6,6 +6,7 @@
         "corpus_index": "m-beir-cirr_task7",
         "description": "Lucene index for M-BEIR CIRR task 7 corpus.",
         "filename": "lucene-inverted.m-beir-cirr_task7.20251227.1c5cd3.tar.gz",
+        "readme_local": "lucene/m-beir/lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "readme": "lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "urls": [
             "https://huggingface.co/datasets/castorini/prebuilt-indexes-m-beir/resolve/main/lucene-inverted/lucene-inverted.m-beir-cirr_task7.20251227.1c5cd3.tar.gz"
@@ -23,6 +24,7 @@
         "corpus_index": "m-beir-edis_task2",
         "description": "Lucene index for M-BEIR EDIS task 2 corpus.",
         "filename": "lucene-inverted.m-beir-edis_task2.20251227.1c5cd3.tar.gz",
+        "readme_local": "lucene/m-beir/lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "readme": "lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "urls": [
             "https://huggingface.co/datasets/castorini/prebuilt-indexes-m-beir/resolve/main/lucene-inverted/lucene-inverted.m-beir-edis_task2.20251227.1c5cd3.tar.gz"
@@ -40,6 +42,7 @@
         "corpus_index": "m-beir-fashion200k_task0",
         "description": "Lucene index for M-BEIR Fashion200K task 0 corpus.",
         "filename": "lucene-inverted.m-beir-fashion200k_task0.20251227.1c5cd3.tar.gz",
+        "readme_local": "lucene/m-beir/lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "readme": "lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "urls": [
             "https://huggingface.co/datasets/castorini/prebuilt-indexes-m-beir/resolve/main/lucene-inverted/lucene-inverted.m-beir-fashion200k_task0.20251227.1c5cd3.tar.gz"
@@ -57,6 +60,7 @@
         "corpus_index": "m-beir-fashion200k_task3",
         "description": "Lucene index for M-BEIR Fashion200K task 3 corpus.",
         "filename": "lucene-inverted.m-beir-fashion200k_task3.20251227.1c5cd3.tar.gz",
+        "readme_local": "lucene/m-beir/lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "readme": "lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "urls": [
             "https://huggingface.co/datasets/castorini/prebuilt-indexes-m-beir/resolve/main/lucene-inverted/lucene-inverted.m-beir-fashion200k_task3.20251227.1c5cd3.tar.gz"
@@ -74,6 +78,7 @@
         "corpus_index": "m-beir-fashioniq_task7",
         "description": "Lucene index for M-BEIR FashionIQ task 7 corpus.",
         "filename": "lucene-inverted.m-beir-fashioniq_task7.20251227.1c5cd3.tar.gz",
+        "readme_local": "lucene/m-beir/lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "readme": "lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "urls": [
             "https://huggingface.co/datasets/castorini/prebuilt-indexes-m-beir/resolve/main/lucene-inverted/lucene-inverted.m-beir-fashioniq_task7.20251227.1c5cd3.tar.gz"
@@ -91,6 +96,7 @@
         "corpus_index": "m-beir-infoseek_task6",
         "description": "Lucene index for M-BEIR InfoSeek task 6 corpus.",
         "filename": "lucene-inverted.m-beir-infoseek_task6.20251227.1c5cd3.tar.gz",
+        "readme_local": "lucene/m-beir/lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "readme": "lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "urls": [
             "https://huggingface.co/datasets/castorini/prebuilt-indexes-m-beir/resolve/main/lucene-inverted/lucene-inverted.m-beir-infoseek_task6.20251227.1c5cd3.tar.gz"
@@ -108,6 +114,7 @@
         "corpus_index": "m-beir-infoseek_task8",
         "description": "Lucene index for M-BEIR InfoSeek task 8 corpus.",
         "filename": "lucene-inverted.m-beir-infoseek_task8.20251227.1c5cd3.tar.gz",
+        "readme_local": "lucene/m-beir/lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "readme": "lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "urls": [
             "https://huggingface.co/datasets/castorini/prebuilt-indexes-m-beir/resolve/main/lucene-inverted/lucene-inverted.m-beir-infoseek_task8.20251227.1c5cd3.tar.gz"
@@ -125,6 +132,7 @@
         "corpus_index": "m-beir-mscoco_task0",
         "description": "Lucene index for M-BEIR MSCOCO task 0 corpus.",
         "filename": "lucene-inverted.m-beir-mscoco_task0.20251227.1c5cd3.tar.gz",
+        "readme_local": "lucene/m-beir/lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "readme": "lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "urls": [
             "https://huggingface.co/datasets/castorini/prebuilt-indexes-m-beir/resolve/main/lucene-inverted/lucene-inverted.m-beir-mscoco_task0.20251227.1c5cd3.tar.gz"
@@ -142,6 +150,7 @@
         "corpus_index": "m-beir-mscoco_task3",
         "description": "Lucene index for M-BEIR MSCOCO task 3 corpus.",
         "filename": "lucene-inverted.m-beir-mscoco_task3.20251227.1c5cd3.tar.gz",
+        "readme_local": "lucene/m-beir/lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "readme": "lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "urls": [
             "https://huggingface.co/datasets/castorini/prebuilt-indexes-m-beir/resolve/main/lucene-inverted/lucene-inverted.m-beir-mscoco_task3.20251227.1c5cd3.tar.gz"
@@ -159,6 +168,7 @@
         "corpus_index": "m-beir-nights_task4",
         "description": "Lucene index for M-BEIR NIGHTS task 4 corpus.",
         "filename": "lucene-inverted.m-beir-nights_task4.20251227.1c5cd3.tar.gz",
+        "readme_local": "lucene/m-beir/lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "readme": "lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "urls": [
             "https://huggingface.co/datasets/castorini/prebuilt-indexes-m-beir/resolve/main/lucene-inverted/lucene-inverted.m-beir-nights_task4.20251227.1c5cd3.tar.gz"
@@ -176,6 +186,7 @@
         "corpus_index": "m-beir-oven_task6",
         "description": "Lucene index for M-BEIR OVEN task 6 corpus.",
         "filename": "lucene-inverted.m-beir-oven_task6.20251227.1c5cd3.tar.gz",
+        "readme_local": "lucene/m-beir/lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "readme": "lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "urls": [
             "https://huggingface.co/datasets/castorini/prebuilt-indexes-m-beir/resolve/main/lucene-inverted/lucene-inverted.m-beir-oven_task6.20251227.1c5cd3.tar.gz"
@@ -193,6 +204,7 @@
         "corpus_index": "m-beir-oven_task8",
         "description": "Lucene index for M-BEIR OVEN task 8 corpus.",
         "filename": "lucene-inverted.m-beir-oven_task8.20251227.1c5cd3.tar.gz",
+        "readme_local": "lucene/m-beir/lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "readme": "lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "urls": [
             "https://huggingface.co/datasets/castorini/prebuilt-indexes-m-beir/resolve/main/lucene-inverted/lucene-inverted.m-beir-oven_task8.20251227.1c5cd3.tar.gz"
@@ -210,6 +222,7 @@
         "corpus_index": "m-beir-visualnews_task0",
         "description": "Lucene index for M-BEIR VisualNews task 0 corpus.",
         "filename": "lucene-inverted.m-beir-visualnews_task0.20251227.1c5cd3.tar.gz",
+        "readme_local": "lucene/m-beir/lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "readme": "lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "urls": [
             "https://huggingface.co/datasets/castorini/prebuilt-indexes-m-beir/resolve/main/lucene-inverted/lucene-inverted.m-beir-visualnews_task0.20251227.1c5cd3.tar.gz"
@@ -227,6 +240,7 @@
         "corpus_index": "m-beir-visualnews_task3",
         "description": "Lucene index for M-BEIR VisualNews task 3 corpus.",
         "filename": "lucene-inverted.m-beir-visualnews_task3.20251227.1c5cd3.tar.gz",
+        "readme_local": "lucene/m-beir/lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "readme": "lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "urls": [
             "https://huggingface.co/datasets/castorini/prebuilt-indexes-m-beir/resolve/main/lucene-inverted/lucene-inverted.m-beir-visualnews_task3.20251227.1c5cd3.tar.gz"
@@ -244,6 +258,7 @@
         "corpus_index": "m-beir-webqa_task1",
         "description": "Lucene index for M-BEIR WebQA task 1 corpus.",
         "filename": "lucene-inverted.m-beir-webqa_task1.20251227.1c5cd3.tar.gz",
+        "readme_local": "lucene/m-beir/lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "readme": "lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "urls": [
             "https://huggingface.co/datasets/castorini/prebuilt-indexes-m-beir/resolve/main/lucene-inverted/lucene-inverted.m-beir-webqa_task1.20251227.1c5cd3.tar.gz"
@@ -261,6 +276,7 @@
         "corpus_index": "m-beir-webqa_task2",
         "description": "Lucene index for M-BEIR WebQA task 2 corpus.",
         "filename": "lucene-inverted.m-beir-webqa_task2.20251227.1c5cd3.tar.gz",
+        "readme_local": "lucene/m-beir/lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "readme": "lucene-inverted.m-beir.20251227.1c5cd3.README.md",
         "urls": [
             "https://huggingface.co/datasets/castorini/prebuilt-indexes-m-beir/resolve/main/lucene-inverted/lucene-inverted.m-beir-webqa_task2.20251227.1c5cd3.tar.gz"
