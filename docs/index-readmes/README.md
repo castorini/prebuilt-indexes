@@ -2,7 +2,7 @@
 
 Build and usage documentation for the prebuilt indexes is maintained in this directory.
 
-Find the README for an index through the **[index catalog](../catalog/README.md)**. Several indexes can share one README, such as indexes built with the same model across BEIR datasets.
+Find the README for an index through the **[Lucene catalog](../catalog/lucene.md)** or **[Faiss catalog](../catalog/faiss.md)**.
 
 ## Directory layout
 
@@ -48,7 +48,3 @@ For the workflow, see [Adding a prebuilt index](../../README.md#adding-a-prebuil
    ```
 
 The generator checks that each `readme_local` path points to a file within this directory and updates the catalog links.
-
-## Original sources
-
-For documentation adapted from another repository, include an **Original source** section in the README with a link to the original document, and preserve attribution and license notices. Verify that links and example paths refer to the appropriate project and build version.

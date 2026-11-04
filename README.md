@@ -6,12 +6,12 @@ This repository provides the source of truth for prebuilt indexes used by [Anser
 
 ## Browse indexes
 
-**[Browse the index catalog →](docs/catalog/README.md)**
+Indexes are organized by backend and collection.
 
-Find index IDs, corpus and model descriptions, sizes, download links, and [locally stored index READMEs](docs/index-readmes/README.md):
+Browse index IDs, Hugging Face links, and [locally stored index READMEs](docs/index-readmes/README.md). Each collection links to its metadata JSON for descriptions, sizes, checksums, and download URLs:
 
-- **[Lucene indexes](docs/catalog/README.md#lucene)**: inverted, impact, flat vector, and HNSW indexes.
-- **[Faiss indexes](docs/catalog/README.md#faiss)**: dense vector indexes.
+- **[Lucene indexes](docs/catalog/lucene.md)**: inverted, impact, flat vector, and HNSW indexes.
+- **[Faiss indexes](docs/catalog/faiss.md)**: dense vector indexes.
 
 For usage instructions, see [Anserini](https://github.com/castorini/anserini/blob/master/docs/prebuilt-indexes.md) and [Pyserini](https://github.com/castorini/pyserini/blob/master/docs/prebuilt-indexes.md). Available index IDs depend on the metadata version pinned by your installed software. Index files remain at their existing hosting locations.
 
@@ -22,7 +22,7 @@ For usage instructions, see [Anserini](https://github.com/castorini/anserini/blo
 
 ## Adding a prebuilt index
 
-Publish the index artifact, register its metadata, and add its documentation to make it discoverable in the [index catalog](docs/catalog/README.md).
+Publish the index artifact, register its metadata, and add its documentation to make it discoverable in the [Lucene](docs/catalog/lucene.md) or [Faiss](docs/catalog/faiss.md) catalog.
 
 ```text
 Publish index artifact (Hugging Face or another host)

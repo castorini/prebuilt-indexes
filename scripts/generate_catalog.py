@@ -42,13 +42,6 @@ def link(label, url):
     return f"[{text(label)}](<{quote(url, safe=':/?#[]@!$&%*+,;=~-._')}>)"
 
 
-def size_label(size):
-    for unit, divisor in (("TiB", 1024**4), ("GiB", 1024**3), ("MiB", 1024**2), ("KiB", 1024)):
-        if size >= divisor:
-            return f"{size / divisor:.2f} {unit}"
-    return f"{size} B"
-
-
 def table(headers, rows, right_aligned=()):
     """Render a Markdown table with aligned columns in the source file."""
     widths = [
@@ -150,23 +143,18 @@ class CatalogRenderer:
     """Render catalog pages without reading or writing files."""
 
     def render(self, groups):
-        outputs = {
-            self._group_path(group): self.render_group(group)
-            for group in groups
-        }
-        outputs["README.md"] = self.render_overview(groups)
+        outputs = {}
+        for backend in BACKENDS:
+            selected = [group for group in groups if group["backend"] == backend]
+            outputs[f"{backend}.md"] = self.render_backend(backend, selected)
         return outputs
 
     @staticmethod
-    def _group_path(group):
-        return f"{group['backend']}/{group['slug']}.md"
-
-    @staticmethod
-    def _readme_link(entry):
+    def _readme_link(entry, label="README", missing="—"):
         path = entry["readme_local"]
         if path:
-            return f"[README](../../index-readmes/{quote(path)})"
-        return "—"
+            return f"[{label}](../index-readmes/{quote(path)})"
+        return missing
 
     @staticmethod
     def _hugging_face_links(entry):
@@ -196,87 +184,44 @@ class CatalogRenderer:
             for repository in sorted(repositories)
         ) or "—"
 
-    def render_overview(self, groups):
+    def render_backend(self, backend, groups):
+        count = sum(len(group["entries"]) for group in groups)
         lines = [
             NOTICE,
-            "# Prebuilt index catalog", "",
-            "Browse by backend and collection below. Each page lists index IDs, descriptions, downloads, and available README links.", "",
-            "See [index documentation](../index-readmes/README.md) for build and usage instructions. A dash (—) indicates that no link is available.", "",
-            "Index availability depends on your Anserini or Pyserini version. Reported sizes may differ from download or extracted sizes.", "",
-        ]
-        for backend in BACKENDS:
-            selected = [group for group in groups if group["backend"] == backend]
-            count = sum(len(group["entries"]) for group in selected)
-            lines.extend([
-                f"## {backend.title()}", "",
-                f"{count} indexes · Usage: {USAGE[backend]}", "",
-            ])
-            rows = [
-                [
-                    f"[{group['slug']}]({self._group_path(group)})",
-                    str(len(group["entries"])),
-                    self._hugging_face_pages(group),
-                ]
-                for group in selected
-            ]
-            lines.extend(table(["Collection", "Indexes", "Hugging Face page"], rows, right_aligned=(1,)))
-            lines.append("")
-        return "\n".join(lines) + "\n"
-
-    def render_group(self, group):
-        backend = group["backend"]
-        lines = [
-            NOTICE,
-            f"# {backend.title()}: {group['slug']}", "",
-            "[All indexes](../README.md)", "",
-            f"{len(group['entries'])} indexes · [Source metadata](../../../{group['source']})", "",
-            f"Usage: {USAGE[backend]}", "",
-            "## Indexes", "",
+            f"# {backend.title()} prebuilt index catalog", "",
+            "Index availability depends on your Anserini or Pyserini version. Each collection's metadata includes download URLs, sizes, and checksums.", "",
+            f"{count} indexes · Usage: {USAGE[backend]}", "",
+            '<a id="collections"></a>', "",
+            "## Collections", "",
         ]
         rows = [
-            self._table_cells(entry, number)
-            for number, entry in enumerate(group["entries"], 1)
+            [
+                f"[{group['slug']}](#{backend}-{group['slug']})",
+                str(len(group["entries"])),
+                self._hugging_face_pages(group),
+            ]
+            for group in groups
         ]
-        lines.extend(table(["Index ID", "README", "Hugging Face"], rows))
-        lines.extend(["", "## Details", ""])
-        for number, entry in enumerate(group["entries"], 1):
-            lines.extend(self._render_details(entry, number))
+        lines.extend(table(["Collection", "Indexes", "Hugging Face page"], rows, right_aligned=(1,)))
+        lines.append("")
+        for group in groups:
+            lines.extend([
+                f'<a id="{backend}-{group["slug"]}"></a>', "",
+                "<details open>",
+                f"<summary><strong>{group['slug']}</strong> ({len(group['entries'])} indexes)</summary>", "",
+                f"[Metadata JSON](../../{group['source']}) · [Back to collections](#collections)", "",
+            ])
+            index_rows = [
+                [
+                    self._readme_link(entry, label=code(entry['name']), missing=code(entry['name'])),
+                    self._readme_link(entry),
+                    self._hugging_face_links(entry),
+                ]
+                for entry in group["entries"]
+            ]
+            lines.extend(table(["Index ID", "README", "Hugging Face"], index_rows))
+            lines.extend(["", "</details>", ""])
         return "\n".join(lines) + "\n"
-
-    def _table_cells(self, entry, number):
-        return [
-            f"[{code(entry['name'])}](#index-{number})",
-            self._readme_link(entry),
-            self._hugging_face_links(entry),
-        ]
-
-    def _render_details(self, entry, number):
-        lines = [
-            f'<a id="index-{number}"></a>', "",
-            "<details>", f"<summary>{code(entry['name'])}</summary>", "",
-            text(entry["description"]), "",
-        ]
-        if entry["corpus"]:
-            lines.append(f"- Corpus: {text(entry['corpus'])}")
-        if entry["texts"]:
-            lines.append(f"- Text collection: {code(entry['texts'])}")
-        if entry["type"]:
-            lines.append(f"- Index type: {text(entry['type'])}")
-        lines.extend([
-            f"- Metadata size: {size_label(entry['size'])}",
-            f"- Artifact: {code(entry['filename'])}",
-            f"- MD5: {code(entry['md5'])}",
-        ])
-        downloads = [
-            link(f"Download {i} ({urlsplit(url).netloc})", url) or code(url)
-            for i, url in enumerate(entry["urls"], 1)
-        ]
-        lines.append("- Downloads: " + (" · ".join(downloads) or "Not provided"))
-        lines.append("- README: " + self._readme_link(entry))
-        if entry["note"]:
-            lines.append(f"- Note: {text(entry['note'])}")
-        lines.extend(["", "</details>", ""])
-        return lines
 
 
 class CatalogGenerator:
