@@ -68,7 +68,7 @@ class CatalogMetadata:
 
     def __init__(self, root):
         self.root = Path(root)
-        self.readme_folder = self.root / "docs" / "index-readmes"
+        self.readme_folder = self.root / "docs" / "readmes"
 
     def load_groups(self):
         groups = []
@@ -89,8 +89,8 @@ class CatalogMetadata:
                     if name in seen:
                         raise ValueError(f"Duplicate index ID: {backend}:{name}")
                     seen.add(name)
-                    if entry["readme_local"] is not None:
-                        self._validate_readme(f"{backend}:{name}", entry["readme_local"])
+                    if entry["readme"] is not None:
+                        self._validate_readme(f"{backend}:{name}", entry["readme"])
                 groups.append(group)
         return groups
 
@@ -108,6 +108,12 @@ class CatalogMetadata:
 
     @staticmethod
     def _normalize_entry(backend, name, row):
+        readme = row.get("readme")
+        if readme is not None and not isinstance(readme, str):
+            raise ValueError(f"Invalid README reference for {backend}:{name}")
+        # Legacy URLs and bare filenames are not local documentation paths.
+        if not readme or is_web_url(readme) or ("/" not in readme and "\\" not in readme):
+            readme = None
         return {
             "name": name,
             "backend": backend,
@@ -117,7 +123,7 @@ class CatalogMetadata:
             "description": row["description"],
             "filename": row["filename"],
             "urls": row["urls"],
-            "readme_local": row.get("readme_local"),
+            "readme": readme,
             "size": row["size"],
             "md5": row["md5"],
             "note": row.get("note"),
@@ -151,9 +157,9 @@ class CatalogRenderer:
 
     @staticmethod
     def _readme_link(entry, label="README", missing="—"):
-        path = entry["readme_local"]
+        path = entry["readme"]
         if path:
-            return f"[{label}](../index-readmes/{quote(path)})"
+            return f"[{label}](../readmes/{quote(path)})"
         return missing
 
     @staticmethod

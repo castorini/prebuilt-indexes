@@ -8,7 +8,8 @@ This repository provides the source of truth for prebuilt indexes used by [Anser
 
 Indexes are organized by backend and collection.
 
-Browse index IDs, Hugging Face links, and [locally stored index READMEs](docs/index-readmes/README.md). Each collection links to its metadata JSON for descriptions, sizes, checksums, and download URLs:
+Browse index IDs, Hugging Face links, and [locally stored index READMEs](docs/readmes/README.md).
+Each collection links to its metadata JSON for descriptions, sizes, checksums, and download URLs:
 
 - **[Lucene indexes](docs/catalog/lucene.md)**: inverted, impact, flat vector, and HNSW indexes.
 - **[Faiss indexes](docs/catalog/faiss.md)**: dense vector indexes.
@@ -27,9 +28,9 @@ Publish the index artifact, register its metadata, and add its documentation to 
 ```text
 Publish index artifact (Hugging Face or another host)
     ↓
-Add a README under docs/index-readmes/<backend>/<collection>/
+Add a README under docs/readmes/<backend>/
     ↓
-Add index metadata with readme_local; regenerate manifests if needed
+Add index metadata with readme; regenerate manifests if needed
     ↓
 Generate and check the catalog → Submit a pull request
 ```
@@ -39,7 +40,9 @@ Run all commands below from the repository root.
 ## Updating the catalog
 
 The catalog is generated from the metadata; do not edit its Markdown pages directly.
-Index READMEs are maintained directly in `docs/index-readmes/`. Each index's optional `readme_local` metadata field specifies its README path relative to that directory. See [README maintenance](docs/index-readmes/README.md#add-or-update-a-readme) for adding or updating them.
+Index READMEs are maintained directly in `docs/readmes/`.
+Each index's `readme` metadata field specifies its local README path relative to that directory.
+See [README maintenance](docs/readmes/README.md#add-or-update-a-readme) for adding or updating them.
 After changing metadata, regenerate it from the repository root:
 
 ```bash
