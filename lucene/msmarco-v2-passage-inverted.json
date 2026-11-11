@@ -6,8 +6,7 @@
         "corpus_index": "msmarco-v2-passage",
         "description": "Anserini Lucene inverted index of the MS MARCO V2 passage corpus",
         "filename": "lucene-inverted.msmarco-v2-passage.20220808.4d6d2a.tar.gz",
-        "readme_local": "lucene/msmarco-v2/lucene-inverted.msmarco-v2-passage.20220808.4d6d2a.README.md",
-        "readme": "https://github.com/castorini/pyserini/tree/master/pyserini/resources/index-metadata/lucene-inverted.msmarco-v2-passage.20220808.4d6d2a.README.md",
+        "readme": "lucene/lucene-inverted.msmarco-v2-passage.20220808.4d6d2a.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.msmarco-v2-passage.20220808.4d6d2a.tar.gz"
         ],
@@ -24,8 +23,7 @@
         "corpus_index": "msmarco-v2-passage",
         "description": "Anserini Lucene inverted index of the MS MARCO V2 passage corpus ('slim' version)",
         "filename": "lucene-inverted.msmarco-v2-passage-slim.20220808.4d6d2a.tar.gz",
-        "readme_local": "lucene/msmarco-v2/lucene-inverted.msmarco-v2-passage.20220808.4d6d2a.README.md",
-        "readme": "https://github.com/castorini/pyserini/tree/master/pyserini/resources/index-metadata/lucene-inverted.msmarco-v2-passage.20220808.4d6d2a.README.md",
+        "readme": "lucene/lucene-inverted.msmarco-v2-passage.20220808.4d6d2a.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.msmarco-v2-passage-slim.20220808.4d6d2a.tar.gz"
         ],
@@ -42,8 +40,7 @@
         "corpus_index": "msmarco-v2-passage",
         "description": "Anserini Lucene inverted index of the MS MARCO V2 passage corpus ('full' version)",
         "filename": "lucene-inverted.msmarco-v2-passage-full.20220808.4d6d2a.tar.gz",
-        "readme_local": "lucene/msmarco-v2/lucene-inverted.msmarco-v2-passage.20220808.4d6d2a.README.md",
-        "readme": "https://github.com/castorini/pyserini/tree/master/pyserini/resources/index-metadata/lucene-inverted.msmarco-v2-passage.20220808.4d6d2a.README.md",
+        "readme": "lucene/lucene-inverted.msmarco-v2-passage.20220808.4d6d2a.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.msmarco-v2-passage-full.20220808.4d6d2a.tar.gz"
         ],
@@ -60,8 +57,7 @@
         "corpus_index": "msmarco-v2-passage",
         "description": "Anserini Lucene inverted index of the MS MARCO V2 passage corpus with doc2query-T5 expansions",
         "filename": "lucene-inverted.msmarco-v2-passage.d2q-t5.20220808.4d6d2a.tar.gz",
-        "readme_local": "lucene/msmarco-v2/lucene-inverted.msmarco-v2-passage.d2q-t5.20220808.4d6d2a.README.md",
-        "readme": "https://github.com/castorini/pyserini/tree/master/pyserini/resources/index-metadata/lucene-inverted.msmarco-v2-passage.d2q-t5.20220808.4d6d2a.README.md",
+        "readme": "lucene/lucene-inverted.msmarco-v2-passage.d2q-t5.20220808.4d6d2a.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.msmarco-v2-passage.d2q-t5.20220808.4d6d2a.tar.gz"
         ],
@@ -78,8 +74,7 @@
         "corpus_index": "msmarco-v2-passage",
         "description": "Anserini Lucene inverted index of the MS MARCO V2 passage corpus with doc2query-T5 expansions (with stored docvectors)",
         "filename": "lucene-inverted.msmarco-v2-passage.d2q-t5-docvectors.20220808.4d6d2a.tar.gz",
-        "readme_local": "lucene/msmarco-v2/lucene-inverted.msmarco-v2-passage.d2q-t5.20220808.4d6d2a.README.md",
-        "readme": "https://github.com/castorini/pyserini/tree/master/pyserini/resources/index-metadata/lucene-inverted.msmarco-v2-passage.d2q-t5.20220808.4d6d2a.README.md",
+        "readme": "lucene/lucene-inverted.msmarco-v2-passage.d2q-t5.20220808.4d6d2a.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.msmarco-v2-passage.d2q-t5-docvectors.20220808.4d6d2a.tar.gz"
         ],
@@ -96,8 +91,7 @@
         "corpus_index": "msmarco-v2-passage-augmented",
         "description": "Anserini Lucene inverted index of the MS MARCO V2 augmented passage corpus",
         "filename": "lucene-inverted.msmarco-v2-passage-augmented.20220808.4d6d2a.tar.gz",
-        "readme_local": "lucene/msmarco-v2/lucene-inverted.msmarco-v2-passage-augmented.20220808.4d6d2a.README.md",
-        "readme": "https://github.com/castorini/pyserini/tree/master/pyserini/resources/index-metadata/lucene-inverted.msmarco-v2-passage-augmented.20220808.4d6d2a.README.md",
+        "readme": "lucene/lucene-inverted.msmarco-v2-passage-augmented.20220808.4d6d2a.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.msmarco-v2-passage-augmented.20220808.4d6d2a.tar.gz"
         ],
@@ -114,8 +108,7 @@
         "corpus_index": "msmarco-v2-passage-augmented",
         "description": "Anserini Lucene inverted index of the MS MARCO V2 augmented passage corpus ('slim' version)",
         "filename": "lucene-inverted.msmarco-v2-passage-augmented-slim.20220808.4d6d2a.tar.gz",
-        "readme_local": "lucene/msmarco-v2/lucene-inverted.msmarco-v2-passage-augmented.20220808.4d6d2a.README.md",
-        "readme": "https://github.com/castorini/pyserini/tree/master/pyserini/resources/index-metadata/lucene-inverted.msmarco-v2-passage-augmented.20220808.4d6d2a.README.md",
+        "readme": "lucene/lucene-inverted.msmarco-v2-passage-augmented.20220808.4d6d2a.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.msmarco-v2-passage-augmented-slim.20220808.4d6d2a.tar.gz"
         ],
@@ -132,8 +125,7 @@
         "corpus_index": "msmarco-v2-passage-augmented",
         "description": "Anserini Lucene inverted index of the MS MARCO V2 augmented passage corpus ('full' version)",
         "filename": "lucene-inverted.msmarco-v2-passage-augmented-full.20220808.4d6d2a.tar.gz",
-        "readme_local": "lucene/msmarco-v2/lucene-inverted.msmarco-v2-passage-augmented.20220808.4d6d2a.README.md",
-        "readme": "https://github.com/castorini/pyserini/tree/master/pyserini/resources/index-metadata/lucene-inverted.msmarco-v2-passage-augmented.20220808.4d6d2a.README.md",
+        "readme": "lucene/lucene-inverted.msmarco-v2-passage-augmented.20220808.4d6d2a.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.msmarco-v2-passage-augmented-full.20220808.4d6d2a.tar.gz"
         ],
@@ -150,8 +142,7 @@
         "corpus_index": "msmarco-v2-passage-augmented",
         "description": "Anserini Lucene inverted index of the MS MARCO V2 augmented passage corpus with doc2query-T5 expansions",
         "filename": "lucene-inverted.msmarco-v2-passage-augmented.d2q-t5.20220808.4d6d2a.tar.gz",
-        "readme_local": "lucene/msmarco-v2/lucene-inverted.msmarco-v2-passage-augmented.d2q-t5.20220808.4d6d2a.README.md",
-        "readme": "https://github.com/castorini/pyserini/tree/master/pyserini/resources/index-metadata/lucene-inverted.msmarco-v2-passage-augmented.d2q-t5.20220808.4d6d2a.README.md",
+        "readme": "lucene/lucene-inverted.msmarco-v2-passage-augmented.d2q-t5.20220808.4d6d2a.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.msmarco-v2-passage-augmented.d2q-t5.20220808.4d6d2a.tar.gz"
         ],
@@ -168,8 +159,7 @@
         "corpus_index": "msmarco-v2-passage-augmented",
         "description": "Anserini Lucene inverted index of the MS MARCO V2 augmented passage corpus with doc2query-T5 expansions (with stored docvectors)",
         "filename": "lucene-inverted.msmarco-v2-passage-augmented.d2q-t5-docvectors.20220808.4d6d2a.tar.gz",
-        "readme_local": "lucene/msmarco-v2/lucene-inverted.msmarco-v2-passage-augmented.d2q-t5.20220808.4d6d2a.README.md",
-        "readme": "https://github.com/castorini/pyserini/tree/master/pyserini/resources/index-metadata/lucene-inverted.msmarco-v2-passage-augmented.d2q-t5.20220808.4d6d2a.README.md",
+        "readme": "lucene/lucene-inverted.msmarco-v2-passage-augmented.d2q-t5.20220808.4d6d2a.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.msmarco-v2-passage-augmented.d2q-t5-docvectors.20220808.4d6d2a.tar.gz"
         ],

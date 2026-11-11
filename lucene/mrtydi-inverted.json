@@ -6,8 +6,7 @@
         "corpus_index": "mrtydi-v1.1-ar",
         "description": "Lucene index for Mr.TyDi v1.1 - Arabic (Lucene 10.4.0)",
         "filename": "lucene-inverted.mrtydi-v1.1-ar.20260604.558ae2c.tar",
-        "readme_local": "lucene/mrtydi/lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
-        "readme": "lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
+        "readme": "lucene/lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.mrtydi-v1.1-ar.20260604.558ae2c.tar"
         ],
@@ -24,8 +23,7 @@
         "corpus_index": "mrtydi-v1.1-bn",
         "description": "Lucene index for Mr.TyDi v1.1 - Bengali (Lucene 10.4.0)",
         "filename": "lucene-inverted.mrtydi-v1.1-bn.20260604.558ae2c.tar",
-        "readme_local": "lucene/mrtydi/lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
-        "readme": "lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
+        "readme": "lucene/lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.mrtydi-v1.1-bn.20260604.558ae2c.tar"
         ],
@@ -42,8 +40,7 @@
         "corpus_index": "mrtydi-v1.1-en",
         "description": "Lucene index for Mr.TyDi v1.1 - English (Lucene 10.4.0)",
         "filename": "lucene-inverted.mrtydi-v1.1-en.20260604.558ae2c.tar",
-        "readme_local": "lucene/mrtydi/lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
-        "readme": "lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
+        "readme": "lucene/lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.mrtydi-v1.1-en.20260604.558ae2c.tar"
         ],
@@ -60,8 +57,7 @@
         "corpus_index": "mrtydi-v1.1-fi",
         "description": "Lucene index for Mr.TyDi v1.1 - Finnish (Lucene 10.4.0)",
         "filename": "lucene-inverted.mrtydi-v1.1-fi.20260604.558ae2c.tar",
-        "readme_local": "lucene/mrtydi/lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
-        "readme": "lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
+        "readme": "lucene/lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.mrtydi-v1.1-fi.20260604.558ae2c.tar"
         ],
@@ -78,8 +74,7 @@
         "corpus_index": "mrtydi-v1.1-id",
         "description": "Lucene index for Mr.TyDi v1.1 - Indonesian (Lucene 10.4.0)",
         "filename": "lucene-inverted.mrtydi-v1.1-id.20260604.558ae2c.tar",
-        "readme_local": "lucene/mrtydi/lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
-        "readme": "lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
+        "readme": "lucene/lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.mrtydi-v1.1-id.20260604.558ae2c.tar"
         ],
@@ -96,8 +91,7 @@
         "corpus_index": "mrtydi-v1.1-ja",
         "description": "Lucene index for Mr.TyDi v1.1 - Japanese (Lucene 10.4.0)",
         "filename": "lucene-inverted.mrtydi-v1.1-ja.20260604.558ae2c.tar",
-        "readme_local": "lucene/mrtydi/lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
-        "readme": "lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
+        "readme": "lucene/lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.mrtydi-v1.1-ja.20260604.558ae2c.tar"
         ],
@@ -114,8 +108,7 @@
         "corpus_index": "mrtydi-v1.1-ko",
         "description": "Lucene index for Mr.TyDi v1.1 - Korean (Lucene 10.4.0)",
         "filename": "lucene-inverted.mrtydi-v1.1-ko.20260604.558ae2c.tar",
-        "readme_local": "lucene/mrtydi/lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
-        "readme": "lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
+        "readme": "lucene/lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.mrtydi-v1.1-ko.20260604.558ae2c.tar"
         ],
@@ -132,8 +125,7 @@
         "corpus_index": "mrtydi-v1.1-ru",
         "description": "Lucene index for Mr.TyDi v1.1 - Russian (Lucene 10.4.0)",
         "filename": "lucene-inverted.mrtydi-v1.1-ru.20260604.558ae2c.tar",
-        "readme_local": "lucene/mrtydi/lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
-        "readme": "lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
+        "readme": "lucene/lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.mrtydi-v1.1-ru.20260604.558ae2c.tar"
         ],
@@ -150,8 +142,7 @@
         "corpus_index": "mrtydi-v1.1-sw",
         "description": "Lucene index for Mr.TyDi v1.1 - Swahili (Lucene 10.4.0)",
         "filename": "lucene-inverted.mrtydi-v1.1-sw.20260604.558ae2c.tar",
-        "readme_local": "lucene/mrtydi/lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
-        "readme": "lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
+        "readme": "lucene/lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.mrtydi-v1.1-sw.20260604.558ae2c.tar"
         ],
@@ -168,8 +159,7 @@
         "corpus_index": "mrtydi-v1.1-te",
         "description": "Lucene index for Mr.TyDi v1.1 - Telugu (Lucene 10.4.0)",
         "filename": "lucene-inverted.mrtydi-v1.1-te.20260604.558ae2c.tar",
-        "readme_local": "lucene/mrtydi/lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
-        "readme": "lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
+        "readme": "lucene/lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.mrtydi-v1.1-te.20260604.558ae2c.tar"
         ],
@@ -186,8 +176,7 @@
         "corpus_index": "mrtydi-v1.1-th",
         "description": "Lucene index for Mr.TyDi v1.1 - Thai (Lucene 10.4.0)",
         "filename": "lucene-inverted.mrtydi-v1.1-th.20260604.558ae2c.tar",
-        "readme_local": "lucene/mrtydi/lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
-        "readme": "lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
+        "readme": "lucene/lucene-inverted.mrtydi-v1.1.20260604.558ae2c.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.mrtydi-v1.1-th.20260604.558ae2c.tar"
         ],

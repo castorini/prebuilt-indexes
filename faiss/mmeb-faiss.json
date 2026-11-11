@@ -2,8 +2,7 @@
   "mmeb-visdoc-MMLongBench-page.gme-Qwen2-VL-2B-Instruct": {
     "description": "Faiss index of the MMLongBench-page corpus encoded by gme-Qwen2-VL-2B-Instruct",
     "filename": "faiss-flat.mmeb-visdoc-MMLongBench-page.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/gme-Qwen2-VL-2B-Instruct/faiss-flat.mmeb-visdoc-MMLongBench-page.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz"
     ],
@@ -16,8 +15,7 @@
   "mmeb-visdoc-ViDoRe_arxivqa.gme-Qwen2-VL-2B-Instruct": {
     "description": "Faiss index of the ViDoRe_arxivqa corpus encoded by gme-Qwen2-VL-2B-Instruct",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_arxivqa.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/gme-Qwen2-VL-2B-Instruct/faiss-flat.mmeb-visdoc-ViDoRe_arxivqa.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz"
     ],
@@ -30,8 +28,7 @@
   "mmeb-visdoc-ViDoRe_biomedical_lectures_v2_multilingual.gme-Qwen2-VL-2B-Instruct": {
     "description": "Faiss index of the ViDoRe_biomedical_lectures_v2_multilingual corpus encoded by gme-Qwen2-VL-2B-Instruct",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_biomedical_lectures_v2_multilingual.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/gme-Qwen2-VL-2B-Instruct/faiss-flat.mmeb-visdoc-ViDoRe_biomedical_lectures_v2_multilingual.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz"
     ],
@@ -44,8 +41,7 @@
   "mmeb-visdoc-ViDoRe_docvqa.gme-Qwen2-VL-2B-Instruct": {
     "description": "Faiss index of the ViDoRe_docvqa corpus encoded by gme-Qwen2-VL-2B-Instruct",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_docvqa.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/gme-Qwen2-VL-2B-Instruct/faiss-flat.mmeb-visdoc-ViDoRe_docvqa.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz"
     ],
@@ -58,8 +54,7 @@
   "mmeb-visdoc-ViDoRe_economics_reports_v2_multilingual.gme-Qwen2-VL-2B-Instruct": {
     "description": "Faiss index of the ViDoRe_economics_reports_v2_multilingual corpus encoded by gme-Qwen2-VL-2B-Instruct",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_economics_reports_v2_multilingual.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/gme-Qwen2-VL-2B-Instruct/faiss-flat.mmeb-visdoc-ViDoRe_economics_reports_v2_multilingual.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz"
     ],
@@ -72,8 +67,7 @@
   "mmeb-visdoc-ViDoRe_esg_reports_human_labeled_v2.gme-Qwen2-VL-2B-Instruct": {
     "description": "Faiss index of the ViDoRe_esg_reports_human_labeled_v2 corpus encoded by gme-Qwen2-VL-2B-Instruct",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_esg_reports_human_labeled_v2.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/gme-Qwen2-VL-2B-Instruct/faiss-flat.mmeb-visdoc-ViDoRe_esg_reports_human_labeled_v2.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz"
     ],
@@ -86,8 +80,7 @@
   "mmeb-visdoc-ViDoRe_esg_reports_v2_multilingual.gme-Qwen2-VL-2B-Instruct": {
     "description": "Faiss index of the ViDoRe_esg_reports_v2_multilingual corpus encoded by gme-Qwen2-VL-2B-Instruct",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_esg_reports_v2_multilingual.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/gme-Qwen2-VL-2B-Instruct/faiss-flat.mmeb-visdoc-ViDoRe_esg_reports_v2_multilingual.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz"
     ],
@@ -100,8 +93,7 @@
   "mmeb-visdoc-ViDoRe_infovqa.gme-Qwen2-VL-2B-Instruct": {
     "description": "Faiss index of the ViDoRe_infovqa corpus encoded by gme-Qwen2-VL-2B-Instruct",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_infovqa.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/gme-Qwen2-VL-2B-Instruct/faiss-flat.mmeb-visdoc-ViDoRe_infovqa.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz"
     ],
@@ -114,8 +106,7 @@
   "mmeb-visdoc-ViDoRe_shiftproject.gme-Qwen2-VL-2B-Instruct": {
     "description": "Faiss index of the ViDoRe_shiftproject corpus encoded by gme-Qwen2-VL-2B-Instruct",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_shiftproject.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/gme-Qwen2-VL-2B-Instruct/faiss-flat.mmeb-visdoc-ViDoRe_shiftproject.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz"
     ],
@@ -128,8 +119,7 @@
   "mmeb-visdoc-ViDoRe_syntheticDocQA_artificial_intelligence.gme-Qwen2-VL-2B-Instruct": {
     "description": "Faiss index of the ViDoRe_syntheticDocQA_artificial_intelligence corpus encoded by gme-Qwen2-VL-2B-Instruct",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_syntheticDocQA_artificial_intelligence.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/gme-Qwen2-VL-2B-Instruct/faiss-flat.mmeb-visdoc-ViDoRe_syntheticDocQA_artificial_intelligence.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz"
     ],
@@ -142,8 +132,7 @@
   "mmeb-visdoc-ViDoRe_syntheticDocQA_energy.gme-Qwen2-VL-2B-Instruct": {
     "description": "Faiss index of the ViDoRe_syntheticDocQA_energy corpus encoded by gme-Qwen2-VL-2B-Instruct",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_syntheticDocQA_energy.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/gme-Qwen2-VL-2B-Instruct/faiss-flat.mmeb-visdoc-ViDoRe_syntheticDocQA_energy.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz"
     ],
@@ -156,8 +145,7 @@
   "mmeb-visdoc-ViDoRe_syntheticDocQA_government_reports.gme-Qwen2-VL-2B-Instruct": {
     "description": "Faiss index of the ViDoRe_syntheticDocQA_government_reports corpus encoded by gme-Qwen2-VL-2B-Instruct",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_syntheticDocQA_government_reports.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/gme-Qwen2-VL-2B-Instruct/faiss-flat.mmeb-visdoc-ViDoRe_syntheticDocQA_government_reports.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz"
     ],
@@ -170,8 +158,7 @@
   "mmeb-visdoc-ViDoRe_syntheticDocQA_healthcare_industry.gme-Qwen2-VL-2B-Instruct": {
     "description": "Faiss index of the ViDoRe_syntheticDocQA_healthcare_industry corpus encoded by gme-Qwen2-VL-2B-Instruct",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_syntheticDocQA_healthcare_industry.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/gme-Qwen2-VL-2B-Instruct/faiss-flat.mmeb-visdoc-ViDoRe_syntheticDocQA_healthcare_industry.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz"
     ],
@@ -184,8 +171,7 @@
   "mmeb-visdoc-ViDoRe_tabfquad.gme-Qwen2-VL-2B-Instruct": {
     "description": "Faiss index of the ViDoRe_tabfquad corpus encoded by gme-Qwen2-VL-2B-Instruct",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_tabfquad.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/gme-Qwen2-VL-2B-Instruct/faiss-flat.mmeb-visdoc-ViDoRe_tabfquad.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz"
     ],
@@ -198,8 +184,7 @@
   "mmeb-visdoc-ViDoRe_tatdqa.gme-Qwen2-VL-2B-Instruct": {
     "description": "Faiss index of the ViDoRe_tatdqa corpus encoded by gme-Qwen2-VL-2B-Instruct",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_tatdqa.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/gme-Qwen2-VL-2B-Instruct/faiss-flat.mmeb-visdoc-ViDoRe_tatdqa.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz"
     ],
@@ -212,8 +197,7 @@
   "mmeb-visdoc-ViDoSeek-page.gme-Qwen2-VL-2B-Instruct": {
     "description": "Faiss index of the ViDoSeek-page corpus encoded by gme-Qwen2-VL-2B-Instruct",
     "filename": "faiss-flat.mmeb-visdoc-ViDoSeek-page.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/gme-Qwen2-VL-2B-Instruct/faiss-flat.mmeb-visdoc-ViDoSeek-page.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz"
     ],
@@ -226,8 +210,7 @@
   "mmeb-visdoc-VisRAG_ArxivQA.gme-Qwen2-VL-2B-Instruct": {
     "description": "Faiss index of the VisRAG_ArxivQA corpus encoded by gme-Qwen2-VL-2B-Instruct",
     "filename": "faiss-flat.mmeb-visdoc-VisRAG_ArxivQA.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/gme-Qwen2-VL-2B-Instruct/faiss-flat.mmeb-visdoc-VisRAG_ArxivQA.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz"
     ],
@@ -240,8 +223,7 @@
   "mmeb-visdoc-VisRAG_ChartQA.gme-Qwen2-VL-2B-Instruct": {
     "description": "Faiss index of the VisRAG_ChartQA corpus encoded by gme-Qwen2-VL-2B-Instruct",
     "filename": "faiss-flat.mmeb-visdoc-VisRAG_ChartQA.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/gme-Qwen2-VL-2B-Instruct/faiss-flat.mmeb-visdoc-VisRAG_ChartQA.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz"
     ],
@@ -254,8 +236,7 @@
   "mmeb-visdoc-VisRAG_InfoVQA.gme-Qwen2-VL-2B-Instruct": {
     "description": "Faiss index of the VisRAG_InfoVQA corpus encoded by gme-Qwen2-VL-2B-Instruct",
     "filename": "faiss-flat.mmeb-visdoc-VisRAG_InfoVQA.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/gme-Qwen2-VL-2B-Instruct/faiss-flat.mmeb-visdoc-VisRAG_InfoVQA.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz"
     ],
@@ -268,8 +249,7 @@
   "mmeb-visdoc-VisRAG_MP-DocVQA.gme-Qwen2-VL-2B-Instruct": {
     "description": "Faiss index of the VisRAG_MP-DocVQA corpus encoded by gme-Qwen2-VL-2B-Instruct",
     "filename": "faiss-flat.mmeb-visdoc-VisRAG_MP-DocVQA.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/gme-Qwen2-VL-2B-Instruct/faiss-flat.mmeb-visdoc-VisRAG_MP-DocVQA.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz"
     ],
@@ -282,8 +262,7 @@
   "mmeb-visdoc-VisRAG_PlotQA.gme-Qwen2-VL-2B-Instruct": {
     "description": "Faiss index of the VisRAG_PlotQA corpus encoded by gme-Qwen2-VL-2B-Instruct",
     "filename": "faiss-flat.mmeb-visdoc-VisRAG_PlotQA.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/gme-Qwen2-VL-2B-Instruct/faiss-flat.mmeb-visdoc-VisRAG_PlotQA.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz"
     ],
@@ -296,8 +275,7 @@
   "mmeb-visdoc-VisRAG_SlideVQA.gme-Qwen2-VL-2B-Instruct": {
     "description": "Faiss index of the VisRAG_SlideVQA corpus encoded by gme-Qwen2-VL-2B-Instruct",
     "filename": "faiss-flat.mmeb-visdoc-VisRAG_SlideVQA.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/gme-Qwen2-VL-2B-Instruct/faiss-flat.mmeb-visdoc-VisRAG_SlideVQA.gme-Qwen2-VL-2B-Instruct.20260303.fa77cbd.tar.gz"
     ],
@@ -310,8 +288,7 @@
   "mmeb-visdoc-MMLongBench-page.VLM2Vec-V2.0": {
     "description": "Faiss index of the MMLongBench-page corpus encoded by VLM2Vec-V2.0",
     "filename": "faiss-flat.mmeb-visdoc-MMLongBench-page.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/VLM2Vec-V2.0/faiss-flat.mmeb-visdoc-MMLongBench-page.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz"
     ],
@@ -324,8 +301,7 @@
   "mmeb-visdoc-ViDoRe_arxivqa.VLM2Vec-V2.0": {
     "description": "Faiss index of the ViDoRe_arxivqa corpus encoded by VLM2Vec-V2.0",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_arxivqa.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/VLM2Vec-V2.0/faiss-flat.mmeb-visdoc-ViDoRe_arxivqa.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz"
     ],
@@ -338,8 +314,7 @@
   "mmeb-visdoc-ViDoRe_biomedical_lectures_v2_multilingual.VLM2Vec-V2.0": {
     "description": "Faiss index of the ViDoRe_biomedical_lectures_v2_multilingual corpus encoded by VLM2Vec-V2.0",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_biomedical_lectures_v2_multilingual.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/VLM2Vec-V2.0/faiss-flat.mmeb-visdoc-ViDoRe_biomedical_lectures_v2_multilingual.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz"
     ],
@@ -352,8 +327,7 @@
   "mmeb-visdoc-ViDoRe_docvqa.VLM2Vec-V2.0": {
     "description": "Faiss index of the ViDoRe_docvqa corpus encoded by VLM2Vec-V2.0",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_docvqa.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/VLM2Vec-V2.0/faiss-flat.mmeb-visdoc-ViDoRe_docvqa.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz"
     ],
@@ -366,8 +340,7 @@
   "mmeb-visdoc-ViDoRe_economics_reports_v2_multilingual.VLM2Vec-V2.0": {
     "description": "Faiss index of the ViDoRe_economics_reports_v2_multilingual corpus encoded by VLM2Vec-V2.0",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_economics_reports_v2_multilingual.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/VLM2Vec-V2.0/faiss-flat.mmeb-visdoc-ViDoRe_economics_reports_v2_multilingual.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz"
     ],
@@ -380,8 +353,7 @@
   "mmeb-visdoc-ViDoRe_esg_reports_human_labeled_v2.VLM2Vec-V2.0": {
     "description": "Faiss index of the ViDoRe_esg_reports_human_labeled_v2 corpus encoded by VLM2Vec-V2.0",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_esg_reports_human_labeled_v2.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/VLM2Vec-V2.0/faiss-flat.mmeb-visdoc-ViDoRe_esg_reports_human_labeled_v2.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz"
     ],
@@ -394,8 +366,7 @@
   "mmeb-visdoc-ViDoRe_esg_reports_v2_multilingual.VLM2Vec-V2.0": {
     "description": "Faiss index of the ViDoRe_esg_reports_v2_multilingual corpus encoded by VLM2Vec-V2.0",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_esg_reports_v2_multilingual.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/VLM2Vec-V2.0/faiss-flat.mmeb-visdoc-ViDoRe_esg_reports_v2_multilingual.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz"
     ],
@@ -408,8 +379,7 @@
   "mmeb-visdoc-ViDoRe_infovqa.VLM2Vec-V2.0": {
     "description": "Faiss index of the ViDoRe_infovqa corpus encoded by VLM2Vec-V2.0",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_infovqa.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/VLM2Vec-V2.0/faiss-flat.mmeb-visdoc-ViDoRe_infovqa.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz"
     ],
@@ -422,8 +392,7 @@
   "mmeb-visdoc-ViDoRe_shiftproject.VLM2Vec-V2.0": {
     "description": "Faiss index of the ViDoRe_shiftproject corpus encoded by VLM2Vec-V2.0",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_shiftproject.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/VLM2Vec-V2.0/faiss-flat.mmeb-visdoc-ViDoRe_shiftproject.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz"
     ],
@@ -436,8 +405,7 @@
   "mmeb-visdoc-ViDoRe_syntheticDocQA_artificial_intelligence.VLM2Vec-V2.0": {
     "description": "Faiss index of the ViDoRe_syntheticDocQA_artificial_intelligence corpus encoded by VLM2Vec-V2.0",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_syntheticDocQA_artificial_intelligence.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/VLM2Vec-V2.0/faiss-flat.mmeb-visdoc-ViDoRe_syntheticDocQA_artificial_intelligence.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz"
     ],
@@ -450,8 +418,7 @@
   "mmeb-visdoc-ViDoRe_syntheticDocQA_energy.VLM2Vec-V2.0": {
     "description": "Faiss index of the ViDoRe_syntheticDocQA_energy corpus encoded by VLM2Vec-V2.0",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_syntheticDocQA_energy.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/VLM2Vec-V2.0/faiss-flat.mmeb-visdoc-ViDoRe_syntheticDocQA_energy.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz"
     ],
@@ -464,8 +431,7 @@
   "mmeb-visdoc-ViDoRe_syntheticDocQA_government_reports.VLM2Vec-V2.0": {
     "description": "Faiss index of the ViDoRe_syntheticDocQA_government_reports corpus encoded by VLM2Vec-V2.0",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_syntheticDocQA_government_reports.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/VLM2Vec-V2.0/faiss-flat.mmeb-visdoc-ViDoRe_syntheticDocQA_government_reports.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz"
     ],
@@ -478,8 +444,7 @@
   "mmeb-visdoc-ViDoRe_syntheticDocQA_healthcare_industry.VLM2Vec-V2.0": {
     "description": "Faiss index of the ViDoRe_syntheticDocQA_healthcare_industry corpus encoded by VLM2Vec-V2.0",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_syntheticDocQA_healthcare_industry.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/VLM2Vec-V2.0/faiss-flat.mmeb-visdoc-ViDoRe_syntheticDocQA_healthcare_industry.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz"
     ],
@@ -492,8 +457,7 @@
   "mmeb-visdoc-ViDoRe_tabfquad.VLM2Vec-V2.0": {
     "description": "Faiss index of the ViDoRe_tabfquad corpus encoded by VLM2Vec-V2.0",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_tabfquad.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/VLM2Vec-V2.0/faiss-flat.mmeb-visdoc-ViDoRe_tabfquad.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz"
     ],
@@ -506,8 +470,7 @@
   "mmeb-visdoc-ViDoRe_tatdqa.VLM2Vec-V2.0": {
     "description": "Faiss index of the ViDoRe_tatdqa corpus encoded by VLM2Vec-V2.0",
     "filename": "faiss-flat.mmeb-visdoc-ViDoRe_tatdqa.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/VLM2Vec-V2.0/faiss-flat.mmeb-visdoc-ViDoRe_tatdqa.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz"
     ],
@@ -520,8 +483,7 @@
   "mmeb-visdoc-ViDoSeek-page.VLM2Vec-V2.0": {
     "description": "Faiss index of the ViDoSeek-page corpus encoded by VLM2Vec-V2.0",
     "filename": "faiss-flat.mmeb-visdoc-ViDoSeek-page.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/VLM2Vec-V2.0/faiss-flat.mmeb-visdoc-ViDoSeek-page.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz"
     ],
@@ -534,8 +496,7 @@
   "mmeb-visdoc-VisRAG_ArxivQA.VLM2Vec-V2.0": {
     "description": "Faiss index of the VisRAG_ArxivQA corpus encoded by VLM2Vec-V2.0",
     "filename": "faiss-flat.mmeb-visdoc-VisRAG_ArxivQA.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/VLM2Vec-V2.0/faiss-flat.mmeb-visdoc-VisRAG_ArxivQA.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz"
     ],
@@ -548,8 +509,7 @@
   "mmeb-visdoc-VisRAG_ChartQA.VLM2Vec-V2.0": {
     "description": "Faiss index of the VisRAG_ChartQA corpus encoded by VLM2Vec-V2.0",
     "filename": "faiss-flat.mmeb-visdoc-VisRAG_ChartQA.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/VLM2Vec-V2.0/faiss-flat.mmeb-visdoc-VisRAG_ChartQA.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz"
     ],
@@ -562,8 +522,7 @@
   "mmeb-visdoc-VisRAG_InfoVQA.VLM2Vec-V2.0": {
     "description": "Faiss index of the VisRAG_InfoVQA corpus encoded by VLM2Vec-V2.0",
     "filename": "faiss-flat.mmeb-visdoc-VisRAG_InfoVQA.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/VLM2Vec-V2.0/faiss-flat.mmeb-visdoc-VisRAG_InfoVQA.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz"
     ],
@@ -576,8 +535,7 @@
   "mmeb-visdoc-VisRAG_MP-DocVQA.VLM2Vec-V2.0": {
     "description": "Faiss index of the VisRAG_MP-DocVQA corpus encoded by VLM2Vec-V2.0",
     "filename": "faiss-flat.mmeb-visdoc-VisRAG_MP-DocVQA.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/VLM2Vec-V2.0/faiss-flat.mmeb-visdoc-VisRAG_MP-DocVQA.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz"
     ],
@@ -590,8 +548,7 @@
   "mmeb-visdoc-VisRAG_PlotQA.VLM2Vec-V2.0": {
     "description": "Faiss index of the VisRAG_PlotQA corpus encoded by VLM2Vec-V2.0",
     "filename": "faiss-flat.mmeb-visdoc-VisRAG_PlotQA.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/VLM2Vec-V2.0/faiss-flat.mmeb-visdoc-VisRAG_PlotQA.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz"
     ],
@@ -604,8 +561,7 @@
   "mmeb-visdoc-VisRAG_SlideVQA.VLM2Vec-V2.0": {
     "description": "Faiss index of the VisRAG_SlideVQA corpus encoded by VLM2Vec-V2.0",
     "filename": "faiss-flat.mmeb-visdoc-VisRAG_SlideVQA.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz",
-    "readme_local": "faiss/mmeb/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
-    "readme": "faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
+    "readme": "faiss/faiss-flat.mmeb-visdoc.VLM2Vec-V2.20260303.fa77cbd.README.md",
     "urls": [
       "https://huggingface.co/datasets/castorini/prebuilt-indexes-mmeb/resolve/main/faiss-flat/VLM2Vec-V2.0/faiss-flat.mmeb-visdoc-VisRAG_SlideVQA.VLM2Vec-V2.0.20260303.fa77cbd.tar.gz"
     ],

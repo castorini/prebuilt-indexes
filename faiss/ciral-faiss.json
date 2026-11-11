@@ -2,8 +2,7 @@
   "ciral-v1.0-ha-mdpr-tied-pft-msmarco": {
     "description": "Faiss index for CIRAL v1.0 (Hausa) corpus encoded by mDPR passage encoder pre-fine-tuned on MS MARCO.",
     "filename": "faiss.ciral-v1.0-ha.mdpr-tied-pft-msmarco.20240212.2154e7.tar.gz",
-    "readme_local": "faiss/ciral/faiss.ciral-v1.0.mdpr-tied-pft-msmarco.20240212.2154e7.README.md",
-    "readme": "faiss.ciral-v1.0.mdpr-tied-pft-msmarco.20240212.2154e7.README.md",
+    "readme": "faiss/faiss.ciral-v1.0.mdpr-tied-pft-msmarco.20240212.2154e7.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss.ciral-v1.0-ha.mdpr-tied-pft-msmarco.20240212.2154e7.tar.gz"
     ],
@@ -16,8 +15,7 @@
   "ciral-v1.0-so-mdpr-tied-pft-msmarco": {
     "description": "Faiss index for CIRAL v1.0 (Somali) corpus encoded by mDPR passage encoder pre-fine-tuned on MS MARCO.",
     "filename": "faiss.ciral-v1.0-so.mdpr-tied-pft-msmarco.20240212.2154e7.tar.gz",
-    "readme_local": "faiss/ciral/faiss.ciral-v1.0.mdpr-tied-pft-msmarco.20240212.2154e7.README.md",
-    "readme": "faiss.ciral-v1.0.mdpr-tied-pft-msmarco.20240212.2154e7.README.md",
+    "readme": "faiss/faiss.ciral-v1.0.mdpr-tied-pft-msmarco.20240212.2154e7.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss.ciral-v1.0-so.mdpr-tied-pft-msmarco.20240212.2154e7.tar.gz"
     ],
@@ -30,8 +28,7 @@
   "ciral-v1.0-sw-mdpr-tied-pft-msmarco": {
     "description": "Faiss index for CIRAL v1.0 (Swahili) corpus encoded by mDPR passage encoder pre-fine-tuned on MS MARCO.",
     "filename": "faiss.ciral-v1.0-sw.mdpr-tied-pft-msmarco.20240212.2154e7.tar.gz",
-    "readme_local": "faiss/ciral/faiss.ciral-v1.0.mdpr-tied-pft-msmarco.20240212.2154e7.README.md",
-    "readme": "faiss.ciral-v1.0.mdpr-tied-pft-msmarco.20240212.2154e7.README.md",
+    "readme": "faiss/faiss.ciral-v1.0.mdpr-tied-pft-msmarco.20240212.2154e7.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss.ciral-v1.0-sw.mdpr-tied-pft-msmarco.20240212.2154e7.tar.gz"
     ],
@@ -44,8 +41,7 @@
   "ciral-v1.0-yo-mdpr-tied-pft-msmarco": {
     "description": "Faiss index for CIRAL v1.0 (Yoruba) corpus encoded by mDPR passage encoder pre-fine-tuned on MS MARCO.",
     "filename": "faiss.ciral-v1.0-yo.mdpr-tied-pft-msmarco.20240212.2154e7.tar.gz",
-    "readme_local": "faiss/ciral/faiss.ciral-v1.0.mdpr-tied-pft-msmarco.20240212.2154e7.README.md",
-    "readme": "faiss.ciral-v1.0.mdpr-tied-pft-msmarco.20240212.2154e7.README.md",
+    "readme": "faiss/faiss.ciral-v1.0.mdpr-tied-pft-msmarco.20240212.2154e7.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss.ciral-v1.0-yo.mdpr-tied-pft-msmarco.20240212.2154e7.tar.gz"
     ],
@@ -58,8 +54,7 @@
   "ciral-v1.0-ha-afriberta-dpr-ptf-msmarco-ft-latin-mrtydi": {
     "description": "Faiss index for CIRAL v1.0 (Hausa) corpus encoded by Afriberta-DPR passage encoder pre-fine-tuned on MS MARCO and fine-tuned on Latin languages in Mr. TyDi.",
     "filename": "faiss.ciral-v1.0-ha.afriberta-dpr-ptf-msmarco-ft-latin-mrtydi.20230814.b56d04.tar.gz",
-    "readme_local": "faiss/ciral/faiss.ciral-v1.0.afriberta-dpr-ptf-msmarco-ft-latin-mrtydi.20240212.2154e7.README.md",
-    "readme": "faiss.ciral-v1.0.afriberta-dpr-ptf-msmarco-ft-latin-mrtydi.20240212.2154e7.README.md",
+    "readme": "faiss/faiss.ciral-v1.0.afriberta-dpr-ptf-msmarco-ft-latin-mrtydi.20240212.2154e7.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss.ciral-v1.0-ha.afriberta-dpr-ptf-msmarco-ft-latin-mrtydi.20230814.b56d04.tar.gz"
     ],
@@ -72,8 +67,7 @@
   "ciral-v1.0-so-afriberta-dpr-ptf-msmarco-ft-latin-mrtydi": {
     "description": "Faiss index for CIRAL v1.0 (Somali) corpus encoded by Afriberta-DPR passage encoder pre-fine-tuned on MS MARCO and fine-tuned on Latin languages in Mr. TyDi.",
     "filename": "faiss.ciral-v1.0-so.afriberta-dpr-ptf-msmarco-ft-latin-mrtydi.20230814.b56d04.tar.gz",
-    "readme_local": "faiss/ciral/faiss.ciral-v1.0.afriberta-dpr-ptf-msmarco-ft-latin-mrtydi.20240212.2154e7.README.md",
-    "readme": "faiss.ciral-v1.0.afriberta-dpr-ptf-msmarco-ft-latin-mrtydi.20240212.2154e7.README.md",
+    "readme": "faiss/faiss.ciral-v1.0.afriberta-dpr-ptf-msmarco-ft-latin-mrtydi.20240212.2154e7.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss.ciral-v1.0-so.afriberta-dpr-ptf-msmarco-ft-latin-mrtydi.20230814.b56d04.tar.gz"
     ],
@@ -86,8 +80,7 @@
   "ciral-v1.0-sw-afriberta-dpr-ptf-msmarco-ft-latin-mrtydi": {
     "description": "Faiss index for CIRAL v1.0 (Swahili) corpus encoded by Afriberta-DPR passage encoder pre-fine-tuned on MS MARCO and fine-tuned on Latin languages in Mr. TyDi.",
     "filename": "faiss.ciral-v1.0-sw.afriberta-dpr-ptf-msmarco-ft-latin-mrtydi.20230814.b56d04.tar.gz",
-    "readme_local": "faiss/ciral/faiss.ciral-v1.0.afriberta-dpr-ptf-msmarco-ft-latin-mrtydi.20240212.2154e7.README.md",
-    "readme": "faiss.ciral-v1.0.afriberta-dpr-ptf-msmarco-ft-latin-mrtydi.20240212.2154e7.README.md",
+    "readme": "faiss/faiss.ciral-v1.0.afriberta-dpr-ptf-msmarco-ft-latin-mrtydi.20240212.2154e7.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss.ciral-v1.0-sw.afriberta-dpr-ptf-msmarco-ft-latin-mrtydi.20230814.b56d04.tar.gz"
     ],
@@ -100,8 +93,7 @@
   "ciral-v1.0-yo-afriberta-dpr-ptf-msmarco-ft-latin-mrtydi": {
     "description": "Faiss index for CIRAL v1.0 (Yoruba) corpus encoded by Afriberta-DPR passage encoder pre-fine-tuned on MS MARCO and fine-tuned on Latin languages in Mr. TyDi.",
     "filename": "faiss.ciral-v1.0-yo.afriberta-dpr-ptf-msmarco-ft-latin-mrtydi.20230814.b56d04.tar.gz",
-    "readme_local": "faiss/ciral/faiss.ciral-v1.0.afriberta-dpr-ptf-msmarco-ft-latin-mrtydi.20240212.2154e7.README.md",
-    "readme": "faiss.ciral-v1.0.afriberta-dpr-ptf-msmarco-ft-latin-mrtydi.20240212.2154e7.README.md",
+    "readme": "faiss/faiss.ciral-v1.0.afriberta-dpr-ptf-msmarco-ft-latin-mrtydi.20240212.2154e7.README.md",
     "urls": [
       "https://rgw.cs.uwaterloo.ca/pyserini/indexes/faiss.ciral-v1.0-yo.afriberta-dpr-ptf-msmarco-ft-latin-mrtydi.20230814.b56d04.tar.gz"
     ],
