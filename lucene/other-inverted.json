@@ -23,7 +23,7 @@
         "corpus_index": "disk45",
         "description": "Lucene index of TREC Disks 4 & 5 (minus Congressional Records), used in the TREC 2004 Robust Track.",
         "filename": "lucene-inverted.disk45.20240803.36f7e3.tar.gz",
-        "readme": "lucene-inverted.disk45.20240803.36f7e3.README.md",
+        "readme": "lucene/lucene-inverted.disk45.20240803.36f7e3.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.disk45.20240803.36f7e3.tar.gz"
         ],
@@ -40,7 +40,7 @@
         "corpus_index": "aquaint",
         "description": "Lucene index of the AQUAINT collection, used in the TREC 2005 Robust Track.",
         "filename": "lucene-inverted.aquaint.20240803.36f7e3.tar.gz",
-        "readme": "lucene-inverted.aquaint.20240803.36f7e3.README.md",
+        "readme": "lucene/lucene-inverted.aquaint.20240803.36f7e3.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.aquaint.20240803.36f7e3.tar.gz"
         ],
@@ -57,7 +57,7 @@
         "corpus_index": "nyt",
         "description": "Lucene index of the New York Times Annotated Corpus, used in the TREC 2017 Common Core Track.",
         "filename": "lucene-inverted.nyt.20240803.36f7e3.tar.gz",
-        "readme": "lucene-inverted.nyt.20240803.36f7e3.README.md",
+        "readme": "lucene/lucene-inverted.nyt.20240803.36f7e3.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.nyt.20240803.36f7e3.tar.gz"
         ],
@@ -74,7 +74,7 @@
         "corpus_index": "wapo.v2",
         "description": "Lucene index of the TREC Washington Post Corpus, used in the TREC 2018 Common Core Track.",
         "filename": "lucene-inverted.wapo.v2.20240803.36f7e3.tar.gz",
-        "readme": "lucene-inverted.wapo.v2.20240803.36f7e3.README.md",
+        "readme": "lucene/lucene-inverted.wapo.v2.20240803.36f7e3.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene/lucene-inverted.wapo.v2.20240803.36f7e3.tar.gz"
         ],
@@ -411,7 +411,7 @@
         "corpus_index": "hc4-v1.0-fa",
         "description": "Lucene index for HC4 v1.0 (Persian).",
         "filename": "lucene-index.hc4-v1.0-fa.20221025.c4a8d0.tar.gz",
-        "readme": "lucene-index.hc4-v1.0.20221025.c4a8d0.README.md",
+        "readme": "lucene/lucene-index.hc4-v1.0.20221025.c4a8d0.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene-index.hc4-v1.0-fa.20221025.c4a8d0.tar.gz"
         ],
@@ -428,7 +428,7 @@
         "corpus_index": "hc4-v1.0-ru",
         "description": "Lucene index for HC4 v1.0 (Russian).",
         "filename": "lucene-index.hc4-v1.0-ru.20221025.c4a8d0.tar.gz",
-        "readme": "lucene-index.hc4-v1.0.20221025.c4a8d0.README.md",
+        "readme": "lucene/lucene-index.hc4-v1.0.20221025.c4a8d0.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene-index.hc4-v1.0-ru.20221025.c4a8d0.tar.gz"
         ],
@@ -445,7 +445,7 @@
         "corpus_index": "hc4-v1.0-zh",
         "description": "Lucene index for HC4 v1.0 (Chinese).",
         "filename": "lucene-index.hc4-v1.0-zh.20221025.c4a8d0.tar.gz",
-        "readme": "lucene-index.hc4-v1.0.20221025.c4a8d0.README.md",
+        "readme": "lucene/lucene-index.hc4-v1.0.20221025.c4a8d0.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene-index.hc4-v1.0-zh.20221025.c4a8d0.tar.gz"
         ],
@@ -462,7 +462,7 @@
         "corpus_index": "neuclir22-fa",
         "description": "Lucene index for NeuCLIR 2022 corpus (Persian).",
         "filename": "lucene-index.neuclir22-fa.20221025.c4a8d0.tar.gz",
-        "readme": "lucene-index.neuclir22.20221025.c4a8d0.README.md",
+        "readme": "lucene/lucene-index.neuclir22.20221025.c4a8d0.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene-index.neuclir22-fa.20221025.c4a8d0.tar.gz"
         ],
@@ -479,7 +479,7 @@
         "corpus_index": "neuclir22-ru",
         "description": "Lucene index for NeuCLIR 2022 corpus (Russian).",
         "filename": "lucene-index.neuclir22-ru.20221025.c4a8d0.tar.gz",
-        "readme": "lucene-index.neuclir22.20221025.c4a8d0.README.md",
+        "readme": "lucene/lucene-index.neuclir22.20221025.c4a8d0.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene-index.neuclir22-ru.20221025.c4a8d0.tar.gz"
         ],
@@ -496,7 +496,7 @@
         "corpus_index": "neuclir22-zh",
         "description": "Lucene index for NeuCLIR 2022 corpus (Chinese).",
         "filename": "lucene-index.neuclir22-zh.20221025.c4a8d0.tar.gz",
-        "readme": "lucene-index.neuclir22.20221025.c4a8d0.README.md",
+        "readme": "lucene/lucene-index.neuclir22.20221025.c4a8d0.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene-index.neuclir22-zh.20221025.c4a8d0.tar.gz"
         ],
@@ -513,7 +513,7 @@
         "corpus_index": "neuclir22-fa-en",
         "description": "Lucene index for NeuCLIR 2022 corpus (official English translation from Persian).",
         "filename": "lucene-index.neuclir22-fa-en.20221025.c4a8d0.tar.gz",
-        "readme": "lucene-index.neuclir22-en.20221025.c4a8d0.README.md",
+        "readme": "lucene/lucene-index.neuclir22-en.20221025.c4a8d0.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene-index.neuclir22-fa-en.20221025.c4a8d0.tar.gz"
         ],
@@ -530,7 +530,7 @@
         "corpus_index": "neuclir22-ru-en",
         "description": "Lucene index for NeuCLIR 2022 corpus (official English translation from Russian).",
         "filename": "lucene-index.neuclir22-ru-en.20221025.c4a8d0.tar.gz",
-        "readme": "lucene-index.neuclir22-en.20221025.c4a8d0.README.md",
+        "readme": "lucene/lucene-index.neuclir22-en.20221025.c4a8d0.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene-index.neuclir22-ru-en.20221025.c4a8d0.tar.gz"
         ],
@@ -547,7 +547,7 @@
         "corpus_index": "neuclir22-zh-en",
         "description": "Lucene index for NeuCLIR 2022 corpus (official English translation from Chinese).",
         "filename": "lucene-index.neuclir22-zh-en.20221025.c4a8d0.tar.gz",
-        "readme": "lucene-index.neuclir22-en.20221025.c4a8d0.README.md",
+        "readme": "lucene/lucene-index.neuclir22-en.20221025.c4a8d0.README.md",
         "urls": [
             "https://rgw.cs.uwaterloo.ca/pyserini/indexes/lucene-index.neuclir22-zh-en.20221025.c4a8d0.tar.gz"
         ],
@@ -564,7 +564,7 @@
         "corpus_index": "atomic_text_v0.2.1_small_validation",
         "description": "Lucene index for AToMiC Text v0.2.1 small setting on validation set",
         "filename": "lucene-index.atomic.image.flat.small.validation.tar.gz",
-        "readme": "lucene-index.atomic.20231018.ae6ff6.README.md",
+        "readme": "lucene/lucene-index.atomic.20231018.ae6ff6.README.md",
         "urls": [
             "https://huggingface.co/datasets/TREC-AToMiC/AToMiC-Baselines/resolve/main/indexes/lucene-index.atomic.text.flat.small.validation.tar.gz"
         ],
@@ -581,7 +581,7 @@
         "corpus_index": "atomic_text_v0.2.1_base",
         "description": "Lucene index for AToMiC Text v0.2.1 base setting on validation set",
         "filename": "lucene-index.atomic.image.flat.base.tar.gz",
-        "readme": "lucene-index.atomic.20231018.ae6ff6.README.md",
+        "readme": "lucene/lucene-index.atomic.20231018.ae6ff6.README.md",
         "urls": [
             "https://huggingface.co/datasets/TREC-AToMiC/AToMiC-Baselines/resolve/main/indexes/lucene-index.atomic.text.flat.base.tar.gz"
         ],
@@ -598,7 +598,7 @@
         "corpus_index": "atomic_text_v0.2.1_large",
         "description": "Lucene index for AToMiC Text v0.2.1 large setting on validation set",
         "filename": "lucene-index.atomic.image.flat.large.tar.gz",
-        "readme": "lucene-index.atomic.20231018.ae6ff6.README.md",
+        "readme": "lucene/lucene-index.atomic.20231018.ae6ff6.README.md",
         "urls": [
             "https://huggingface.co/datasets/TREC-AToMiC/AToMiC-Baselines/resolve/main/indexes/lucene-index.atomic.text.flat.large.tar.gz"
         ],
@@ -615,7 +615,7 @@
         "corpus_index": "atomic_image_v0.2_small_validation",
         "description": "Lucene index for AToMiC Images v0.2 small setting on validation set",
         "filename": "lucene-index.atomic.image.flat.small.validation.tar.gz",
-        "readme": "lucene-index.atomic.20231018.ae6ff6.README.md",
+        "readme": "lucene/lucene-index.atomic.20231018.ae6ff6.README.md",
         "urls": [
             "https://huggingface.co/datasets/TREC-AToMiC/AToMiC-Baselines/resolve/main/indexes/lucene-index.atomic.image.flat.small.validation.tar.gz"
         ],
@@ -632,7 +632,7 @@
         "corpus_index": "atomic_image_v0.2_base",
         "description": "Lucene index for AToMiC Images v0.2 base setting on validation set",
         "filename": "lucene-index.atomic.image.flat.base.tar.gz",
-        "readme": "lucene-index.atomic.20231018.ae6ff6.README.md",
+        "readme": "lucene/lucene-index.atomic.20231018.ae6ff6.README.md",
         "urls": [
             "https://huggingface.co/datasets/TREC-AToMiC/AToMiC-Baselines/resolve/main/indexes/lucene-index.atomic.image.flat.base.tar.gz"
         ],
@@ -649,7 +649,7 @@
         "corpus_index": "atomic_image_v0.2_large",
         "description": "Lucene index for AToMiC Images v0.2 large setting on validation set",
         "filename": "lucene-index.atomic.image.flat.large.tar.gz",
-        "readme": "lucene-index.atomic.20231018.ae6ff6.README.md",
+        "readme": "lucene/lucene-index.atomic.20231018.ae6ff6.README.md",
         "urls": [
             "https://huggingface.co/datasets/TREC-AToMiC/AToMiC-Baselines/resolve/main/indexes/lucene-index.atomic.image.flat.large.tar.gz"
         ],
